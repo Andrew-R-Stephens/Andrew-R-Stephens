@@ -17,7 +17,7 @@
 
 Please feel free to navigate the open-source repositories contained here!
 
-##Contact Information
+## Contact Information
 [Andrew (Tritium Gaming Studios)](mailto:TritiumGamingStudiosDM@gmail.com?subject=Github%20Inquiry)
 
 <hr/>
