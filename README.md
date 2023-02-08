@@ -16,7 +16,9 @@
 <em><b>P.E.T.</b></em> acts as an unofficial companion tool for <em>"Phasmophobia"</em>. It gives extra features to players, enabling them to play the game with more efficiency and enhanced immersion. In the past, P.E.T. had solved a number of issues that Phasmophobia had; And while those issues have arguably been reworked in the game, <em>P.E.T.</em> still expands these features far past what the game supplies its users.
 
 Please feel free to navigate the open-source repositories contained here!
-For inquiries, you may contact [Andrew (Tritium Gaming Studios)](mailto:TritiumGamingStudios@gmail.com?subject=Github%20Inquiry)
+
+##Contact Information
+[Andrew (Tritium Gaming Studios)](mailto:TritiumGamingStudiosDM@gmail.com?subject=Github%20Inquiry)
 
 <hr/>
 
