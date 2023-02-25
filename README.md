@@ -11,11 +11,13 @@ Andrew is the proud owner of his small software development business, [Tritium G
 <p><b><em>Tritium Gaming Studios</em></b> is a mobile application development business owned by Andrew Stephens.</p>
 
 ### What's here?
-This is the home of <em>Tritium Gaming Studios'</em> open source project repositories. Currently contained within this Github is the source code, and other such related repositories, for an Android application called [Phasmophobia Evidence Tool (P.E.T.)](#phasmophobia-evidence-tool).
+[Phasmophobia Evidence Tool (P.E.T.)](#phasmophobia-evidence-tool) 
+<br/>This is the home of an open source android application, containing the source code and other such related repositories.
 
 <hr/>
 
 ## Phasmophobia Evidence Tool
+
 
 <img style="width:100vw;" src="https://media.giphy.com/media/METv4JhJVasfcYTAk5/giphy.gif"/>
 
