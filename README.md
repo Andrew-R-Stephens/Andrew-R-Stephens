@@ -10,7 +10,7 @@
 
 <hr/>
 
-## [Phasmophobia Evidence Tool]
+## Phasmophobia Evidence Tool
 
 <img style="width:100vw;" src="https://media.giphy.com/media/METv4JhJVasfcYTAk5/giphy.gif"/>
 
