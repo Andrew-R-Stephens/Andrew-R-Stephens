@@ -30,7 +30,7 @@ Please feel free to navigate the open-source repositories contained here!
 <hr/>
 
 ## Contact Information
-[Personal Email (Tritium Gaming Studios)](mailto:stephensandrewryan@@gmail.com?subject=Github%20Personal%20Inquiry)
+[Personal Email (Tritium Gaming Studios)](mailto:stephensandrewryan@@gmail.com?subject=Github%20Personal%20Inquiry) <br/>
 [Business Email (Tritium Gaming Studios)](mailto:TritiumGamingStudios@gmail.com?subject=Github%20Business%20Inquiry)
 
 <hr/>
