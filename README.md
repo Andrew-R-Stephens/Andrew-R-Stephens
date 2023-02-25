@@ -6,11 +6,11 @@
 ### What's here?
 <p>This is the home of <em>Tritium Gaming Studios'</em> open source project repositories. Currently contained within this Github are the source code repositories, and other such related repositories, for an Android application called <em><b>Phasmophobia Evidence Tool</b></em>.</p>
 
-[Phasmophobia Evidence Tool (P.E.T.) for Android](#pet)
+[Phasmophobia Evidence Tool (P.E.T.) for Android](#phasmophobia-evidence-tool)
 
 <hr/>
 
-## [Phasmophobia Evidence Tool (P.E.T.)](#pet)
+## [Phasmophobia Evidence Tool]
 
 <img style="width:100vw;" src="https://media.giphy.com/media/METv4JhJVasfcYTAk5/giphy.gif"/>
 
