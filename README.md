@@ -1,12 +1,17 @@
-<h2>Welcome, ghost hunters!👻</h2>
+<h2>Welcome!</h2>
 
-### About Tritium Gaming Studios
+<p>This is the repository of Andrew Stephens -- a software engineer with a B.S. in Computer Science from SUNY College at Old Westbury.</p>
+<p>During his scholastic career, Andrew had worked on many extracurricular projects. This proved to be invaluable as it earned him an in-depth understanding of the intricate world of front-end and back-end software development, frameworks, dev-ops, cloud computing, and project management.</p>
+
+Andrew is the proud owner of his small software development business, [Tritium Gaming Studios](#tritium-gaming-studios).
+
+<hr/>
+
+## Tritium Gaming Studios
 <p><b><em>Tritium Gaming Studios</em></b> is a mobile application development business owned by Andrew Stephens.</p>
 
 ### What's here?
-<p>This is the home of <em>Tritium Gaming Studios'</em> open source project repositories. Currently contained within this Github are the source code repositories, and other such related repositories, for an Android application called <em><b>Phasmophobia Evidence Tool</b></em>.</p>
-
-[Phasmophobia Evidence Tool (P.E.T.) for Android](#phasmophobia-evidence-tool)
+This is the home of <em>Tritium Gaming Studios'</em> open source project repositories. Currently contained within this Github is the source code, and other such related repositories, for an Android application called [Phasmophobia Evidence Tool (P.E.T.) for Android](#phasmophobia-evidence-tool).
 
 <hr/>
 
