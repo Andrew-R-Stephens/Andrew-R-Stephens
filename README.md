@@ -1,9 +1,18 @@
 <h2>Welcome!</h2>
 
-<p>This is the repository of Andrew Stephens -- a software engineer with a B.S. in Computer Science from SUNY College at Old Westbury.</p>
-<p>During his scholastic career, Andrew had worked on many extracurricular projects. This proved to be invaluable as it earned him an in-depth understanding of the intricate world of front-end and back-end software development, frameworks, dev-ops, cloud computing, and project management.</p>
+<p>Andrew is a highly motivated full stack software engineer who has demonstrated his curiosity for computer programming through a multitude of technologies over the last decade. He holds a B.S. in Computer and Information Science from SUNY College at Old Westbury and was awarded with Dean's List honors.</p>
+  
+</p>During his scholastic career, Andrew had worked on many extracurricular projects. This proved to be invaluable as it earned him an in-depth understanding of the intricate world of front-end and back-end software development, frameworks, dev-ops, cloud computing, and project management. He worked as a tutor for the Computer Science department.</p>
 
-Andrew is the proud owner of his small software development business, [Tritium Gaming Studios](#tritium-gaming-studios).
+<p>He has a growing number of notable achievements. Andrew is proud to have published a successful multi-faceted Android application (Phasmophobia Evidence Tool) to the Google Play Store. He has deployed a university registration/administration website (Aleutian Islands University) and has also developed a working 2D platformer game (Into The Woods) in Java without the assistance of game libraries. Andrew is currently working on a multitude of other side projects to better understand other technologies.</p>
+
+<p>He has led multiple team projects throughout his career, through which he has exhibited an excellent knowledge of Agile methodologies.</p>
+
+<p>Andrew is very knowledgeable in object-oriented programming concepts, and has an especially thorough background in Java. He has also worked in functional programming practice in Javascript and Typescript. He is quite familiar with RDBMS through his use of MySQL, and has a good understanding of cloud server hosting after having successfully maintained the internal configurations for multiple instances of the AWS service.</p>
+
+<p>Since graduating, Andrew has continued his education by working projects in other technologies such as ASP.NET, Chrome Extensions, Angular, Go, and Kotlin.</p>
+
+<p>Andrew is the proud owner of his small software development business, <a href="#tritium-studios">Tritium Studios</a> .</p>
 
 <hr/>
 
