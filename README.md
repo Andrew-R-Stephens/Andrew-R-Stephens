@@ -1,5 +1,6 @@
-<h2>Welcome!</h2>
-
+<h1>Welcome!</h1>
+<br>
+<h2>About Andrew Stephens</h2>
 <p>Andrew is a highly motivated full stack software engineer who has demonstrated his curiosity for computer programming through a multitude of technologies over the last decade. He holds a B.S. in Computer and Information Science from SUNY College at Old Westbury and was awarded with Dean's List honors.</p>
   
 </p>During his scholastic career, Andrew had worked on many extracurricular projects. This proved to be invaluable as it earned him an in-depth understanding of the intricate world of front-end and back-end software development, frameworks, dev-ops, cloud computing, and project management. He worked as a tutor for the Computer Science department.</p>
@@ -16,17 +17,30 @@
 
 <hr/>
 
-## Tritium Studios
-<p><b><em>Tritium Studios</em></b> is a mobile application development business owned by Andrew Stephens.</p>
+<a href="https://github.com/Andrew-R-Stephens/PET-Source"><h3>Phasmophobia Evidence Tool</h3></a>
+This is the repository which contains all source code for a personal large scale mobile Android side project called "Phasmophobia Evidence Tool". Phasmophobia Evidence Tool (P.E.T.) is an unofficial companion tool application for the game Phasmophobia. P.E.T. enhances the user experience by supplementing in-game mechanics with a more involved investigation system. It gives extra features to players, enabling them to play the game with more efficiency and enhanced immersion. In the past, P.E.T. had solved a number of issues that Phasmophobia had; And while those issues have arguably been reworked in the game, <em>P.E.T.</em> still expands these features far past what the game supplies its users. It is available for free on the Google Play Store.
 
-### What are the projects?
-[Phasmophobia Evidence Tool (P.E.T.)](#phasmophobia-evidence-tool) 
-<br/>This is the repository which contains all source code for a personal large scale mobile Android side project called "Phasmophobia Evidence Tool". Phasmophobia Evidence Tool (P.E.T.) is an unofficial companion tool application for the game Phasmophobia. P.E.T. enhances the user experience by supplementing in-game mechanics with a more involved investigation system. It gives extra features to players, enabling them to play the game with more efficiency and enhanced immersion. In the past, P.E.T. had solved a number of issues that Phasmophobia had; And while those issues have arguably been reworked in the game, <em>P.E.T.</em> still expands these features far past what the game supplies its users. It is available for free on the Google Play Store.
+#### [Source Code](https://github.com/Andrew-R-Stephens/PET-Source)
+<br>
+<b>Be sure to visit:</b><br>
+<a href='https://play.google.com/store/apps/details?id=com.TritiumGaming.phasmophobiaevidencepicker&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="150" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+</div>
 
 <hr/>
 
-### Be sure to visit:
-<ul>
-  <li><a href="https://play.google.com/store/apps/details?id=com.TritiumGaming.phasmophobiaevidencepicker&pli=1"><b>Phasmophobia Evidence Tool</b></a> on the Google Play Store.</li>
-</ul>
-  
+## Aleutian Islands University 
+<p><a href="https://www.owsysdb.com"><b><em>Aleutian Islands University</em></b></a> is a website developed to mimic the realistic structure of a true unieversity website.</p>
+
+#### [Source Code](https://github.com/Andrew-R-Stephens/website-Aleutian_Islands_University)
+
+<hr/>
+
+## Into the Woods
+<p><a href="https://github.com/Andrew-R-Stephens/game-Into_the_Woods#how-to-run"><b><em>Into the Woods</em></b></a> is a 2D platformer game written in Java without the assistance of any game library, graphic library, or asset library.</p>
+
+#### [Source Code](https://github.com/Andrew-R-Stephens/game-Into_the_Woods)
+
+<hr/>
+
+## Tritium Studios
+<p><b><em>Tritium Studios</em></b> is a mobile application development business owned by Andrew Stephens.</p>
