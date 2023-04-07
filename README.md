@@ -19,28 +19,9 @@
 ## Tritium Studios
 <p><b><em>Tritium Studios</em></b> is a mobile application development business owned by Andrew Stephens.</p>
 
-### What's here?
+### What are the projects?
 [Phasmophobia Evidence Tool (P.E.T.)](#phasmophobia-evidence-tool) 
-<br/>This is the home of an open source android application, containing the source code and other such related repositories.
-
-<hr/>
-
-## Phasmophobia Evidence Tool
-
-
-<img style="width:100vw;" src="https://media.giphy.com/media/METv4JhJVasfcYTAk5/giphy.gif"/>
-
-<b><em>P.E.T.</em></b> is a niche Android mobile application which has been built to supplement the needs of gamers who play the game <b><em>"Phasmophobia"</em></b>. [<em>"Phasmophobia"</em>](https://store.steampowered.com/app/739630/Phasmophobia/) is a multiplayer co-op PC horror game developed by [<b><em>Kinetic Games</em></b>](https://kineticgames.co.uk/).
-
-<em><b>P.E.T.</b></em> acts as an unofficial companion tool for <em>"Phasmophobia"</em>. It gives extra features to players, enabling them to play the game with more efficiency and enhanced immersion. In the past, P.E.T. had solved a number of issues that Phasmophobia had; And while those issues have arguably been reworked in the game, <em>P.E.T.</em> still expands these features far past what the game supplies its users.
-
-Please feel free to navigate the open-source repositories contained here!
-
-<hr/>
-
-## Contact Information
-[Personal Email (Tritium Gaming Studios)](mailto:stephensandrewryan@@gmail.com?subject=Github%20Personal%20Inquiry) <br/>
-[Business Email (Tritium Gaming Studios)](mailto:TritiumGamingStudios@gmail.com?subject=Github%20Business%20Inquiry)
+<br/>This is the repository which contains all source code for a personal large scale side project called "Phasmophobia Evidence Tool". It is as an Android application which acts as a companion tool for the game Phasmophobia. It is available for free on the Google Play Store.
 
 <hr/>
 
