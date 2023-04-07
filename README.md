@@ -17,6 +17,68 @@
 
 <hr/>
 
+<h4>Languages / Frameworks / Environments</h4>
+<div style="display:float">
+    <img src="https://img.shields.io/badge/Java-JDK%2017-F80000?logo=oracle&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=bold"/>
+    <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/XML-005A9C?logo=w3c&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=black&style=bold"/>
+</div>
+
+<h4>Operating Systems / Web Servers</h4>
+<div style="display:float">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=mysql&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Apache-D22128?logo=mysql&logoColor=white&style=bold"/>
+</div>
+
+<h4>AWS Services</h4>
+<div style="display:float">
+    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon%20aws&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/AWS-SES-232F3E?logo=amazon%20aws&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/AWS-Route%2053-232F3E?logo=amazon%20aws&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/AWS-IAM-232F3E?logo=amazon%20aws&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/AWS-Certificate%20Manager-232F3E?logo=amazon%20aws&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazon%20ec2&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Amazon%20EC2-Elastic%20IP-FF9900?logo=amazon%20ec2&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Amazon%20EC2-Load%20Balancer-FF9900?logo=amazon%20ec2&logoColor=white&style=bold"/>
+</div>
+
+<h4>Google Services</h4>
+<div style="display:float">
+    <img src="https://img.shields.io/badge/-Google%20Play-E37400?logo=googleplay&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-Google%20Analytics-E37400?logo=googleanalytics&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-Google%20Firebase-FFCA28?logo=googlefirebase&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-Google%20Admob-EA4335?logo=googleadmob&logoColor=white&style=bold"/>
+</div>
+
+<h4>IDE's / Platforms / Tools</h4>
+<div style="display:float">
+    <img src="https://img.shields.io/badge/-IntelliJ%20Ultimate-000000?logo=intellij%20idea&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=black&style=bold"/>
+    <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Git-Bash-F05032?logo=git&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Fillezilla-BF0000?logo=filezilla&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white&style=bold"/>
+</div>
+
+<h4>Libraries</h4>
+<div style="display:float">
+    <img src="https://img.shields.io/badge/MUI-Pagination-007FFF?logo=mui&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/ChartsJS-FF6384?logo=chart.js&logoColor=white&style=bold"/>
+    <a href = "https://mvnrepository.com/artifact/javazoom/jlayer/1.0.1"><img src="https://img.shields.io/badge/Javazoom-JLayer-D3002D?logo=o'reilly&logoColor=white&style=bold"/></a>
+    <a href = "https://mvnrepository.com/artifact/com.google.code.gson/gson"><img src="https://img.shields.io/badge/Google-Gson-4285F4?logo=google&logoColor=white&style=bold"/></a>
+</div>
+
+<hr/>
+
 # Personal Projects
 
 <a href="https://github.com/Andrew-R-Stephens/PET-Source"><h3>Phasmophobia Evidence Tool</h3></a>
