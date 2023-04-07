@@ -21,7 +21,7 @@
 
 ### What are the projects?
 [Phasmophobia Evidence Tool (P.E.T.)](#phasmophobia-evidence-tool) 
-<br/>This is the repository which contains all source code for a personal large scale side project called "Phasmophobia Evidence Tool". It is as an Android application which acts as a companion tool for the game Phasmophobia. It is available for free on the Google Play Store.
+<br/>This is the repository which contains all source code for a personal large scale mobile Android side project called "Phasmophobia Evidence Tool". Phasmophobia Evidence Tool (P.E.T.) is an unofficial companion tool application for the game Phasmophobia. P.E.T. enhances the user experience by supplementing in-game mechanics with a more involved investigation system. It gives extra features to players, enabling them to play the game with more efficiency and enhanced immersion. In the past, P.E.T. had solved a number of issues that Phasmophobia had; And while those issues have arguably been reworked in the game, <em>P.E.T.</em> still expands these features far past what the game supplies its users. It is available for free on the Google Play Store.
 
 <hr/>
 
