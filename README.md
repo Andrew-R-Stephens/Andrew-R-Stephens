@@ -17,6 +17,8 @@
 
 <hr/>
 
+# Personal Projects
+
 <a href="https://github.com/Andrew-R-Stephens/PET-Source"><h3>Phasmophobia Evidence Tool</h3></a>
 This is the repository which contains all source code for a personal large scale mobile Android side project called "Phasmophobia Evidence Tool". Phasmophobia Evidence Tool (P.E.T.) is an unofficial companion tool application for the game Phasmophobia. P.E.T. enhances the user experience by supplementing in-game mechanics with a more involved investigation system. It gives extra features to players, enabling them to play the game with more efficiency and enhanced immersion. In the past, P.E.T. had solved a number of issues that Phasmophobia had; And while those issues have arguably been reworked in the game, <em>P.E.T.</em> still expands these features far past what the game supplies its users. It is available for free on the Google Play Store.
 
@@ -26,21 +28,25 @@ This is the repository which contains all source code for a personal large scale
 <a href='https://play.google.com/store/apps/details?id=com.TritiumGaming.phasmophobiaevidencepicker&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="150" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 </div>
 
+<br>
 <hr/>
 
-## Aleutian Islands University 
+# University Projects
+
+<h3>Aleutian Islands University</h3>
 <p><a href="https://www.owsysdb.com"><b><em>Aleutian Islands University</em></b></a> is a website developed to mimic the realistic structure of a true unieversity website.</p>
 
 #### [Source Code](https://github.com/Andrew-R-Stephens/website-Aleutian_Islands_University)
 
-<hr/>
+<br>
 
-## Into the Woods
+<h3>Into the Woods</h3>
 <p><a href="https://github.com/Andrew-R-Stephens/game-Into_the_Woods#how-to-run"><b><em>Into the Woods</em></b></a> is a 2D platformer game written in Java without the assistance of any game library, graphic library, or asset library.</p>
 
 #### [Source Code](https://github.com/Andrew-R-Stephens/game-Into_the_Woods)
 
+<br>
 <hr/>
 
-## Tritium Studios
+### Tritium Studios
 <p><b><em>Tritium Studios</em></b> is a mobile application development business owned by Andrew Stephens.</p>
