@@ -7,8 +7,8 @@ Andrew is the proud owner of his small software development business, [Tritium G
 
 <hr/>
 
-## Tritium Gaming Studios
-<p><b><em>Tritium Gaming Studios</em></b> is a mobile application development business owned by Andrew Stephens.</p>
+## Tritium Studios
+<p><b><em>Tritium Studios</em></b> is a mobile application development business owned by Andrew Stephens.</p>
 
 ### What's here?
 [Phasmophobia Evidence Tool (P.E.T.)](#phasmophobia-evidence-tool) 
