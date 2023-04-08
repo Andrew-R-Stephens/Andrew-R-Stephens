@@ -5,7 +5,7 @@
   
 </p>During his scholastic career, Andrew had worked on many extracurricular projects. This proved to be invaluable as it earned him an in-depth understanding of the intricate world of front-end and back-end software development, frameworks, dev-ops, cloud computing, and project management. He worked as a tutor for the Computer Science department.</p>
 
-<p>He has a growing number of notable achievements. Andrew is proud to have published a successful multi-faceted Android application (Phasmophobia Evidence Tool) to the Google Play Store. He has deployed a university registration/administration website (Aleutian Islands University) and has also developed a working 2D platformer game (Into The Woods) in Java without the assistance of game libraries. Andrew is currently working on a multitude of other side projects to better understand other technologies.</p>
+<p>He has a growing number of notable achievements. Andrew is proud to have published a successful multi-faceted Android application (<a href="#phasmophobia-evidence-tool">Phasmophobia Evidence Tool</a>) to the Google Play Store. He has deployed a university registration/administration website (<a href="#aleutian-islands-university">Aleutian Islands University</a>) and has also developed a working 2D platformer game (<a href="into-the-woods">Into The Woods</a>) in Java without the assistance of game libraries. Andrew is currently working on a multitude of other side projects to better understand other technologies.</p>
 
 <p>He has led multiple team projects throughout his career, through which he has exhibited an excellent knowledge of Agile methodologies.</p>
 
