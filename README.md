@@ -71,7 +71,7 @@
 
 <h4>Libraries</h4>
 <div style="display:float">
-    <img src="https://img.shields.io/badge/MUI-Pagination-007FFF?logo=mui&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/ChartsJS-FF6384?logo=chart.js&logoColor=white&style=bold"/>
     <a href = "https://mvnrepository.com/artifact/javazoom/jlayer/1.0.1"><img src="https://img.shields.io/badge/Javazoom-JLayer-D3002D?logo=o'reilly&logoColor=white&style=bold"/></a>
     <a href = "https://mvnrepository.com/artifact/com.google.code.gson/gson"><img src="https://img.shields.io/badge/Google-Gson-4285F4?logo=google&logoColor=white&style=bold"/></a>
