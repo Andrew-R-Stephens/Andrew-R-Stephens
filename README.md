@@ -142,6 +142,7 @@
 <br>
 
 <div align='left'><h1>University Projects</h1></div>
+<sub>Noteworthy large-scale, team-driven projects spanning a range of technologies.</sub>
 
 <br>
 
