@@ -15,7 +15,11 @@
 
 <p>Andrew is the proud owner of his small software development business, <a href="https://play.google.com/store/apps/dev?id=5154958473367814985">Tritium Studios</a> .</p>
 
+<br>
+
 <hr/>
+
+<br>
 
 <h4>Languages / Frameworks / Environments</h4>
 <div style="display:float">
@@ -76,6 +80,8 @@
     <a href = "https://mvnrepository.com/artifact/javazoom/jlayer/1.0.1"><img src="https://img.shields.io/badge/Javazoom-JLayer-D3002D?logo=o'reilly&logoColor=white&style=bold"/></a>
     <a href = "https://mvnrepository.com/artifact/com.google.code.gson/gson"><img src="https://img.shields.io/badge/Google-Gson-4285F4?logo=google&logoColor=white&style=bold"/></a>
 </div>
+
+<br>
 
 <hr/>
 
