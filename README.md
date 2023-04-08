@@ -13,7 +13,7 @@
 
 <p>Since graduating, Andrew has continued his education by working projects in other technologies such as ASP.NET, Chrome Extensions, Angular, Go, and Kotlin.</p>
 
-<p>Andrew is the proud owner of his small software development business, <a href="#tritium-studios">Tritium Studios</a> .</p>
+<p>Andrew is the proud owner of his small software development business, <a href="https://play.google.com/store/apps/dev?id=5154958473367814985">Tritium Studios</a> .</p>
 
 <hr/>
 
