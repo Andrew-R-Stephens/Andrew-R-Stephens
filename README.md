@@ -83,6 +83,8 @@
 
 <div align='left'><h1>Personal Projects</h1></div>
 
+> These are ongoing solo or team-driven projects which cover anything from the Android platform to Chrome Extensions.
+
 <br>
 
 <a href="http://pet.tritiumgamingstudios.com/"><h3>`Phasmophobia Evidence Tool`</h3></a>
@@ -141,8 +143,9 @@
 
 <br>
 
-<div align='left'><h1>University Projects</h1></div>
-<sub>Noteworthy large-scale, team-driven projects spanning a range of technologies.</sub>
+<div align='left'><h1>University Projects</h1></div> 
+
+> These are noteworthy large-scale team-driven semester-long projects which span a massive range of technologies.
 
 <br>
 
