@@ -1,19 +1,11 @@
 <h1>Welcome!</h1>
 <br>
 <div align='center'><h2>About Andrew Stephens</h2></div>
-<p>Andrew is a highly motivated full stack software engineer who has demonstrated his curiosity for computer programming through a multitude of technologies over the last decade. He holds a B.S. in Computer and Information Science from SUNY College at Old Westbury and was awarded with Dean's List honors.</p>
+<p>Hello, my name is Andrew! I'm a full stack engineer and mobile app developer from Long Island, New York. I'm highly motivated and curious, which has been demonstrated through my use of a multitude of different technologies over the last decade.</p>
   
-</p>During his scholastic career, Andrew had worked on many extracurricular projects. This proved to be invaluable as it earned him an in-depth understanding of the intricate world of front-end and back-end software development, frameworks, dev-ops, cloud computing, and project management. He worked as a tutor for the Computer Science department.</p>
+<p>I have a B.S. in Computer and Information Science from SUNY College at Old Westbury with Dean's List honors. And I've published an Android app called <em>𝘗𝘩𝘢𝘴𝘮𝘰𝘱𝘩𝘰𝘣𝘪𝘢 𝘌𝘷𝘪𝘥𝘦𝘯𝘤𝘦 𝘛𝘰𝘰𝘭</em> on the Google Play Store!</p>
 
-<p>He has a growing number of notable achievements. Andrew is proud to have published a successful multi-faceted Android application (<a href="https://github.com/Andrew-R-Stephens/PET-Source">Phasmophobia Evidence Tool</a>) to the Google Play Store. He has deployed a university registration/administration website (<a href="https://github.com/Andrew-R-Stephens/website-Aleutian_Islands_University">Aleutian Islands University</a>) and has also developed a working 2D platformer game (<a href="https://github.com/Andrew-R-Stephens/game-Into_the_Woods">Into The Woods</a>) in Java without the assistance of game libraries. Andrew is currently working on a multitude of other side projects to better understand other technologies.</p>
-
-<p>He has led multiple team projects throughout his career, through which he has exhibited an excellent knowledge of Agile methodologies.</p>
-
-<p>Andrew is very knowledgeable in object-oriented programming concepts, and has an especially thorough background in Java. He has also worked in functional programming practice in Javascript and Typescript. He is quite familiar with RDBMS through his use of MySQL, and has a good understanding of cloud server hosting after having successfully maintained the internal configurations for multiple instances of the AWS service.</p>
-
-<p>Since graduating, Andrew has continued his education by working projects in other technologies such as ASP.NET, Chrome Extensions, Angular, Go, and Kotlin.</p>
-
-<p>Andrew is the proud owner of his small software development business, <a href="https://play.google.com/store/apps/dev?id=5154958473367814985">Tritium Studios</a> .</p>
+<p>I'm also the proud owner of his small software development business, <a href="https://play.google.com/store/apps/dev?id=5154958473367814985">Tritium Studios</a>!</p>
 
 <br>
 
