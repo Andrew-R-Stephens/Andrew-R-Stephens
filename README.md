@@ -3,7 +3,7 @@
 <div align='center'><h2>About Andrew Stephens</h2></div>
 <p>Hello, my name is Andrew! I'm a full stack engineer and mobile app developer from Long Island, New York. I'm highly motivated and curious about computer science and software development as a whole, which has been demonstrated through my use of a multitude of different technologies over the last decade.</p>
   
-<p>I have a B.S. in Computer and Information Science from SUNY College at Old Westbury with Dean's List honors. And I've published an Android app called <em>𝘗𝘩𝘢𝘴𝘮𝘰𝘱𝘩𝘰𝘣𝘪𝘢 𝘌𝘷𝘪𝘥𝘦𝘯𝘤𝘦 𝘛𝘰𝘰𝘭</em> on the Google Play Store!</p>
+<p>I have a B.S. in Computer and Information Science from SUNY College at Old Westbury with Dean's List honors. And I've published an Android app called <a href="https://play.google.com/store/apps/details?id=com.TritiumGaming.phasmophobiaevidencepicker&hl=en_US&gl=US"><em>𝘗𝘩𝘢𝘴𝘮𝘰𝘱𝘩𝘰𝘣𝘪𝘢 𝘌𝘷𝘪𝘥𝘦𝘯𝘤𝘦 𝘛𝘰𝘰𝘭</em></a> on the Google Play Store!</p>
 
 <p>I'm also the proud owner of his small software development business, <a href="https://play.google.com/store/apps/dev?id=5154958473367814985">Tritium Studios</a>!</p>
 
@@ -79,9 +79,9 @@
 
 <br>
 
-<div align='left'><h1>Personal Projects</h1></div>
+<div align='left'><h1>Publications</h1></div>
 
-> These are ongoing solo or team-driven projects which cover anything from the Android platform to Chrome Extensions.
+> If it's published on a website like the Google Play Store, it will be in this section.
 
 <br>
 
@@ -115,35 +115,14 @@
 </div>
 
 <br>
-<br>
-
-<a><h3>`Pom20 Chrome Extension`</h3></a>
-<p>Supplies functionality in support of the Pomodoro Technique. Also enforces the use of Dr. Jeffrey Anshel's 20-20-20 rule for avoiding eye strain. Uses ReactJS, Webpack, and Webgazer.js.</p>
-
-<br>
-
-<div align='center' style="display:float">
-    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=bold"/>
-    <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=black&style=bold"/>
-    <img src="https://img.shields.io/badge/-IntelliJ%20Ultimate-000000?logo=intellij%20idea&logoColor=white&style=bold"/>
-</div>
-
-<br>
-
-<div align='center'><a href='https://github.com/Andrew-R-Stephens/pom20-chrome-ext'><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label> Repository</label></a></div>
-
-<br>
 
 <hr/>
 
 <br>
 
-<div align='left'><h1>University Projects</h1></div> 
+<div align='left'><h1>Official Projects</h1></div> 
 
-> These are noteworthy large-scale team-driven semester-long projects which span a massive range of technologies.
+> These are noteworthy large-scale team-driven long-term projects which span a massive range of technologies.
 
 <br>
 
@@ -186,6 +165,36 @@
 </div>
 
 <br>
+
+<hr/>
+
+<br>
+
+<div align='left'><h1>Personal Projects</h1></div>
+
+> These are ongoing solo or team-driven projects which cover anything from the Android platform to Chrome Extensions.
+
+<br>
+
+<a><h3>`Pom20 Chrome Extension`</h3></a>
+<p>Supplies functionality in support of the Pomodoro Technique. Also enforces the use of Dr. Jeffrey Anshel's 20-20-20 rule for avoiding eye strain. Uses ReactJS, Webpack, and Webgazer.js.</p>
+
+<br>
+
+<div align='center' style="display:float">
+    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=bold"/>
+    <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=black&style=bold"/>
+    <img src="https://img.shields.io/badge/-IntelliJ%20Ultimate-000000?logo=intellij%20idea&logoColor=white&style=bold"/>
+</div>
+
+<br>
+
+<div align='center'><a href='https://github.com/Andrew-R-Stephens/pom20-chrome-ext'><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label> Repository</label></a></div>
+
+
 <br>
 
 <a><h3>`Into the Woods`</h3></a>
