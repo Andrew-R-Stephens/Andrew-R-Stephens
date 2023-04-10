@@ -1,7 +1,7 @@
 <h1>Welcome!</h1>
 <br>
 <div align='center'><h2>About Andrew Stephens</h2></div>
-<p>Hello, my name is Andrew! I'm a full stack engineer and mobile app developer from Long Island, New York. I'm highly motivated and curious, which has been demonstrated through my use of a multitude of different technologies over the last decade.</p>
+<p>Hello, my name is Andrew! I'm a full stack engineer and mobile app developer from Long Island, New York. I'm highly motivated and curious about computer science and software development as a whole, which has been demonstrated through my use of a multitude of different technologies over the last decade.</p>
   
 <p>I have a B.S. in Computer and Information Science from SUNY College at Old Westbury with Dean's List honors. And I've published an Android app called <em>𝘗𝘩𝘢𝘴𝘮𝘰𝘱𝘩𝘰𝘣𝘪𝘢 𝘌𝘷𝘪𝘥𝘦𝘯𝘤𝘦 𝘛𝘰𝘰𝘭</em> on the Google Play Store!</p>
 
