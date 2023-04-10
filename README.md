@@ -86,7 +86,7 @@
 <br>
 
 <a href="http://pet.tritiumgamingstudios.com/"><h3>`Phasmophobia Evidence Tool`</h3></a>
-<p><em>Phasmophobia Evidence Tool (P.E.T.)</em> is an unofficial companion tool application for the game Phasmophobia. P.E.T. enhances the user experience by supplementing in-game mechanics with a more involved investigation system. It gives extra features to players, enabling them to play the game with more efficiency and enhanced immersion. In the past, P.E.T. had solved a number of issues that Phasmophobia had; And while those issues have arguably been reworked in the game, <em>P.E.T.</em> still expands these features far past what the game supplies its users. It is available for free on the Google Play Store.</p>
+<p><em>Phasmophobia Evidence Tool (P.E.T.)</em> is an unofficial companion tool Android application for the game Phasmophobia. P.E.T. enhances the user experience by supplementing in-game mechanics with a more involved investigation system. It gives extra features to players, enabling them to play the game with more efficiency and enhanced immersion. In the past, P.E.T. had solved a number of issues that Phasmophobia had; And while those issues have arguably been reworked in the game, <em>P.E.T.</em> still expands these features far past what the game supplies its users. It is available for free on the Google Play Store.</p>
 
 <br>
 
