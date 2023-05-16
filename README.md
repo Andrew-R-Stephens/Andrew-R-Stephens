@@ -1,6 +1,18 @@
-<h1>Welcome!</h1>
+<div style={'display:float' align='center'}>
+  <h1>Welcome!</h1>
+  
+  <br>
+  
+  <img src="https://raw.githubusercontent.com/Andrew-R-Stephens/Andrew-R-Stephens/master/assets/TritiumStudios_logo_ol_negative.png"/>
+
+</div>
+
 <br>
-<div align='center'><h2>About Andrew Stephens</h2></div>
+
+<div style={'display:float' align='center'}><a href="https://portfolio.tritium-studios.com/">Visit my Portfolio!</a></div>
+
+<br>
+<div align='left'><h2>About Andrew Stephens</h2></div>
 <p>Hello, my name is Andrew! I'm a full stack engineer and mobile app developer from Long Island, New York. I'm highly motivated and curious about computer science and software development as a whole, which has been demonstrated through my use of a multitude of different technologies over the last decade.</p>
   
 <p>I have a B.S. in Computer and Information Science from SUNY College at Old Westbury with Dean's List honors. And I've published an Android app called <a href="https://play.google.com/store/apps/details?id=com.TritiumGaming.phasmophobiaevidencepicker&hl=en_US&gl=US"><em>𝘗𝘩𝘢𝘴𝘮𝘰𝘱𝘩𝘰𝘣𝘪𝘢 𝘌𝘷𝘪𝘥𝘦𝘯𝘤𝘦 𝘛𝘰𝘰𝘭</em></a> on the Google Play Store!</p>
