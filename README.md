@@ -1,10 +1,10 @@
 <div style={'display:float' align='center'}>
-  <h1>Welcome!</h1>
-  
   <br>
   
   <img src="https://raw.githubusercontent.com/Andrew-R-Stephens/Andrew-R-Stephens/master/assets/TritiumStudios_logo_ol_negative.png"/>
 
+  <h1>Welcome!</h1>
+  
 </div>
 
 <br>
@@ -15,7 +15,7 @@
 <div align='left'><h2>About Andrew Stephens</h2></div>
 <p>Hello, my name is Andrew! I'm a full stack engineer and mobile app developer from Long Island, New York. I'm highly motivated and curious about computer science and software development as a whole, which has been demonstrated through my use of a multitude of different technologies over the last decade.</p>
   
-<p>I have a B.S. in Computer and Information Science from SUNY College at Old Westbury with Dean's List honors. And I've published an Android app called <a href="https://play.google.com/store/apps/details?id=com.TritiumGaming.phasmophobiaevidencepicker&hl=en_US&gl=US"><em>𝘗𝘩𝘢𝘴𝘮𝘰𝘱𝘩𝘰𝘣𝘪𝘢 𝘌𝘷𝘪𝘥𝘦𝘯𝘤𝘦 𝘛𝘰𝘰𝘭</em></a> on the Google Play Store!</p>
+<p>I have a B.S. in Computer and Information Science from SUNY Old Westbury with Dean's List honors. And I've published an Android app called <a href="https://play.google.com/store/apps/details?id=com.TritiumGaming.phasmophobiaevidencepicker&hl=en_US&gl=US"><em>𝘗𝘩𝘢𝘴𝘮𝘰𝘱𝘩𝘰𝘣𝘪𝘢 𝘌𝘷𝘪𝘥𝘦𝘯𝘤𝘦 𝘛𝘰𝘰𝘭</em></a> on the Google Play Store!</p>
 
 <p>I'm also the proud owner of his small software development business, <a href="https://play.google.com/store/apps/dev?id=5154958473367814985">Tritium Studios</a>!</p>
 
@@ -25,25 +25,58 @@
 
 <br>
 
-<h4>Languages / Frameworks / Environments</h4>
+<h4>Languages</h4>
+<div style="display:float">
+    <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=bold"/>
+</div>
 <div style="display:float">
     <img src="https://img.shields.io/badge/Java-JDK%2017-F80000?logo=oracle&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=bold"/>
-    <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=bold"/>
+</div>
+<div style="display:float">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=bold"/>
+</div>
+<div style="display:float">
+    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/XML-005A9C?logo=w3c&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=black&style=bold"/>
+</div>
+
+<h4>Frameworks / Libraries</h4>
+<div style="display:float">
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=bold"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Android%20Native-3DDC84?logo=android&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=bold"/>
+</div>
+
+<h4>Environments</h4>
+<div style="display:float">
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=black&style=bold"/>
+    <img src="https://img.shields.io/badge/Oracle-JRE-F80000?logo=oracle&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=bold"/>
 </div>
 
 <h4>Operating Systems / Web Servers</h4>
 <div style="display:float">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=mysql&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/Apache-D22128?logo=mysql&logoColor=white&style=bold"/>
+</div>
+
+<h4>Mobile Applications</h4>
+<div style="display:float">
+    <img src="https://img.shields.io/badge/Android%20Native-3DDC84?logo=android&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white&style=bold"/>
 </div>
 
 <h4>AWS Services</h4>
@@ -66,15 +99,30 @@
     <img src="https://img.shields.io/badge/-Google%20Admob-EA4335?logo=googleadmob&logoColor=white&style=bold"/>
 </div>
 
-<h4>IDE's / Platforms / Tools</h4>
+<h4>IDE's / Platforms</h4>
 <div style="display:float">
+    <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/-IntelliJ%20Ultimate-000000?logo=intellij%20idea&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=black&style=bold"/>
+    <img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?logo=mysql&logoColor=white&style=bold"/>
+</div>
+
+<h4>Tools</h4>
+<div style="display:float">
     <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/Git-Bash-F05032?logo=git&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/Fillezilla-BF0000?logo=filezilla&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white&style=bold"/>
+</div>
+
+<h4>Version Control Systems</h4>
+<div style="display:float">
+    <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Git-Bash-F05032?logo=git&logoColor=white&style=bold"/>
 </div>
 
 <h4>Libraries</h4>
