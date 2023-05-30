@@ -236,15 +236,18 @@
 
 <br>
 
-<a><h3>`Pom20 Chrome Extension`</h3></a>
-<p>Supplies functionality in support of the Pomodoro Technique. Also enforces the use of Dr. Jeffrey Anshel's 20-20-20 rule for avoiding eye strain. Uses ReactJS, Webpack, and Webgazer.js.</p>
+<a><h3>`Colorium Color Palette Creator`</h3></a>
+<p>Allows users to create their own color palettes. Free membership allows users to store their color palettes for later use. All saved palettes are publically visible and are available for other members to favorite, copy, or rate.</p>
 
 <br>
 
 <div align='center' style="display:float">
     <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=bold"/>
+    <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=black&style=bold"/>
     <img src="https://img.shields.io/badge/-IntelliJ%20Ultimate-000000?logo=intellij%20idea&logoColor=white&style=bold"/>
