@@ -110,8 +110,6 @@
 
 <h4>Tools</h4>
 <div style="display:float">
-    <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/Git-Bash-F05032?logo=git&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=bold"/>
@@ -141,7 +139,7 @@
 
 <div align='left'><h1>Publications</h1></div>
 
-> If it's published on a website like the Google Play Store, it will be in this section.
+> If it's published on an official website like the Google Play Store, it will be in this section.
 
 <br>
 
