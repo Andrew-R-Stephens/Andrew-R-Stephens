@@ -253,7 +253,7 @@
 
 <br>
 
-<div align='center'><a href='https://github.com/Andrew-R-Stephens/pom20-chrome-ext'><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label> Repository</label></a></div>
+<div align='center'><a href='https://github.com/Andrew-R-Stephens/website-colorium-frontend'><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label> Repository</label></a></div>
 
 
 <br>
