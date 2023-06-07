@@ -9,7 +9,7 @@
 
 <br>
 
-<div style={'display:float' align='center'}><a href="https://portfolio.tritium-studios.com/" target="_blank">Visit my Portfolio!</a></div>
+<div style={'display:float' align='center'}><a href="https://portfolio.tritium-studios.com/" target="_blank"><b>Visit my Portfolio!</b></a></div>
 
 <br>
 <div align='left'><h2>About Andrew Stephens</h2></div>
