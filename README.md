@@ -224,6 +224,30 @@
 
 <br>
 
+<a><h3>`Into the Woods`</h3></a>
+<p><a href="https://github.com/Andrew-R-Stephens/game-Into_the_Woods#how-to-run"><b><em>Into the Woods</em></b></a> is a 2D platformer game written in Java without the assistance of any game library, graphic library, or asset library.</p>
+
+<br>
+
+<div align='center' style="display:float">
+    <img src="https://img.shields.io/badge/Java-JDK%2017-F80000?logo=oracle&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/XML-005A9C?logo=w3c&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=bold"/>
+    <a href = "https://mvnrepository.com/artifact/javazoom/jlayer/1.0.1"><img src="https://img.shields.io/badge/Javazoom-JLayer-D3002D?logo=o'reilly&logoColor=white&style=bold"/></a>
+    <a href = "https://mvnrepository.com/artifact/com.google.code.gson/gson"><img src="https://img.shields.io/badge/Google-Gson-4285F4?logo=google&logoColor=white&style=bold"/></a>
+    <img src="https://img.shields.io/badge/-IntelliJ%20Ultimate-000000?logo=intellij%20idea&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Git-Bash-F05032?logo=git&logoColor=white&style=bold"/>
+</div>
+
+<br>
+
+<div align='center' style="display:float">
+  <a href='https://github.com/Andrew-R-Stephens/game-Into_the_Woods'><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label> Repository</label></a>
+</div>
+
 <hr/>
 
 <br>
@@ -257,31 +281,6 @@
 
 
 <br>
-
-<a><h3>`Into the Woods`</h3></a>
-<p><a href="https://github.com/Andrew-R-Stephens/game-Into_the_Woods#how-to-run"><b><em>Into the Woods</em></b></a> is a 2D platformer game written in Java without the assistance of any game library, graphic library, or asset library.</p>
-
-<br>
-
-<div align='center' style="display:float">
-    <img src="https://img.shields.io/badge/Java-JDK%2017-F80000?logo=oracle&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/XML-005A9C?logo=w3c&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=bold"/>
-    <a href = "https://mvnrepository.com/artifact/javazoom/jlayer/1.0.1"><img src="https://img.shields.io/badge/Javazoom-JLayer-D3002D?logo=o'reilly&logoColor=white&style=bold"/></a>
-    <a href = "https://mvnrepository.com/artifact/com.google.code.gson/gson"><img src="https://img.shields.io/badge/Google-Gson-4285F4?logo=google&logoColor=white&style=bold"/></a>
-    <img src="https://img.shields.io/badge/-IntelliJ%20Ultimate-000000?logo=intellij%20idea&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/Git-Bash-F05032?logo=git&logoColor=white&style=bold"/>
-</div>
-
-<br>
-
-<div align='center' style="display:float">
-  <a href='https://github.com/Andrew-R-Stephens/game-Into_the_Woods'><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label> Repository</label></a>
-</div>
-
 <br>
 
 <hr/>
