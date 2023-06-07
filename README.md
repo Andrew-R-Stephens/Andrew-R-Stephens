@@ -279,8 +279,29 @@
 
 <div align='center'><a href='https://github.com/Andrew-R-Stephens/website-colorium-frontend'><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label> Repository</label></a></div>
 
+<br>
+
+<a><h3>`Battleship`</h3></a>
+
+<p>Allows users to create their own color palettes. Free membership allows users to store their color palettes for later use. All saved palettes are publically visible and are available for other members to favorite, copy, or rate.</p>
 
 <br>
+
+<div align='center' style="display:float">
+    <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=black&style=bold"/>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-Google%20Firebase-FFCA28?logo=googlefirebase&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/-XML-333333?logo=xml&logoColor=white&style=bold"/>
+</div>
+
+<br>
+
+<div align='center'><a href='https://github.com/Andrew-R-Stephens/website-colorium-frontend'><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label> Repository</label></a></div>
+
+
+<br>
+
 <br>
 
 <hr/>
