@@ -322,12 +322,12 @@
 
 <a><h3>`Pong 1972`</h3></a>
 
-<p>A goofy simulation of Tinder with the target audience being dogs instead of humans.</p>
+<p>A variant to the classic Pong from 1972. Supports AI prediction, difficulty control and resizing.</p>
 
 <br>
 
 <div align='center' style="display:float">
-    <img src="https://img.shields.io/badge/Processing-006699?logo=processingfoundation&logoColor=black&style=bold"/>
+    <img src="https://img.shields.io/badge/Processing-006699?logo=processingfoundation&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/Java-F80000?logo=oracle&logoColor=white&style=bold"/>
 </div>
 
