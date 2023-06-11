@@ -23,7 +23,20 @@
 
 <hr/>
 
+<div align='left'><h2>Appendix</h2></div>
+
+- [Skills](#skills)
+- [Projects](#projects)
+  - [Publications](#publications)
+  - [Official Projects](#official-projects)
+  - [Personal Projects](#personal-projects)
+
+<hr/>
+
 <br>
+
+
+<div align='left'><h2>Skills</h2></div>
 
 <h4>Languages</h4>
 <div style="display:float">
@@ -137,7 +150,10 @@
 
 <br>
 
-<div align='left'><h1>Publications</h1></div>
+<div align='center'><h1>Projects</h1></div>
+
+
+<div align='left'><h2>Publications</h2></div>
 
 > If it's published on an official website like the Google Play Store, it will be in this section.
 
@@ -178,7 +194,7 @@
 
 <br>
 
-<div align='left'><h1>Official Projects</h1></div> 
+<div align='left'><h2>Official Projects</h2></div> 
 
 > These are noteworthy large-scale team-driven long-term projects which span a massive range of technologies.
 
@@ -252,7 +268,7 @@
 
 <br>
 
-<div align='left'><h1>Personal Projects</h1></div>
+<div align='left'><h2>Personal Projects</h2></div>
 
 > These are ongoing solo or team-driven projects which cover anything from the Android platform to Chrome Extensions.
 
@@ -344,4 +360,4 @@
 <br>
 
 ### Tritium Studios
-<p><b><em>Tritium Studios</em></b> is a mobile application development business owned by Andrew Stephens.</p>
+<p><b><em>Tritium Studios</em></b> is an independent mobile application development business owned and operated by Andrew Stephens.</p>
