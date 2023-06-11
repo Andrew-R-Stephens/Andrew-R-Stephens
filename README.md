@@ -13,11 +13,11 @@
 
 <br>
 <div align='left'><h2>About Andrew Stephens</h2></div>
-<p>Hello, my name is Andrew! I'm a full stack engineer and mobile app developer from Long Island, New York. I'm highly motivated and curious about computer science and software development as a whole, which has been demonstrated through my use of a multitude of different technologies over the last decade.</p>
+<p>Hello, my name is Andrew! I'm a full stack engineer and mobile app developer from Long Island, New York. I'm highly motivated and curious about computer science and software development as a whole, which has been demonstrated through my extensive practice with a multitude of different technologies over the last decade.</p>
   
-<p>I have a B.S. in Computer and Information Science from SUNY Old Westbury with Dean's List honors. And I've published an Android app called <a href="https://play.google.com/store/apps/details?id=com.TritiumGaming.phasmophobiaevidencepicker&hl=en_US&gl=US"><b>Phasmophobia Evidence Tool</b></a> on the Google Play Store!</p>
+<p>I have a B.S. in Computer and Information Science from SUNY Old Westbury with Dean's List honors.
 
-<p>I'm also the proud owner of his small software development business, <a href="https://play.google.com/store/apps/dev?id=5154958473367814985">Tritium Studios</a>!</p>
+<p>I'm also the proud owner of my independent software development business, <a href="https://play.google.com/store/apps/dev?id=5154958473367814985">Tritium Studios</a>, for which I've published an Android app called <a href="https://play.google.com/store/apps/details?id=com.TritiumGaming.phasmophobiaevidencepicker&hl=en_US&gl=US"><b>Phasmophobia Evidence Tool</b></a> on the Google Play Store!</p>
 
 <br>
 
@@ -76,8 +76,8 @@
 <h4>Environments</h4>
 <div style="display:float">
     <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=black&style=bold"/>
-    <img src="https://img.shields.io/badge/Oracle-JRE-F80000?logo=oracle&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Java-JRE-F80000?logo=oracle&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Python-Venv-3776AB?logo=python&logoColor=white&style=bold"/>
 </div>
 
 <h4>Operating Systems / Web Servers</h4>
