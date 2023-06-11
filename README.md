@@ -23,8 +23,10 @@
 
 <hr/>
 
-<div align='left'><h2>Appendix</h2></div>
+<div align='center'><h1>Appendix</h1></div>
 
+- [Portfolio](#welcome)
+- [About](#about-andrew-stephens)
 - [Skills](#skills)
 - [Projects](#projects)
   - [Publications](#publications)
@@ -36,7 +38,7 @@
 <br>
 
 
-<div align='left'><h2>Skills</h2></div>
+<div align='center'><h1>Skills</h1></div>
 
 <h4>Languages</h4>
 <div style="display:float">
@@ -151,7 +153,6 @@
 <br>
 
 <div align='center'><h1>Projects</h1></div>
-
 
 <div align='left'><h2>Publications</h2></div>
 
