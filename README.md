@@ -207,7 +207,7 @@
 <br>
 
 <a><h3>`Aleutian Islands University`</h3></a>
-<p><a href="https://www.owsysdb.com"><b><em>Aleutian Islands University</em></b></a> is a full stack website developed by a small team to mimic the realistic structure of a true unieversity website. More information about the team structure, the tech stack, and other useful facts can be located in the repository.</p>
+<p><a href="https://www.aiu.tritium-studios.com"><b><em>Aleutian Islands University</em></b></a> is a full stack website developed by a small team to mimic the realistic structure of a true unieversity website. More information about the team structure, the tech stack, and other useful facts can be located in the repository.</p>
 
 <br>
 
