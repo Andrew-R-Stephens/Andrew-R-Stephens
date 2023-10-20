@@ -167,6 +167,7 @@
 
 <a href="http://pet.tritiumgamingstudios.com/"><h3>`Phasmophobia Evidence Tool`</h3></a>
 <p><em>Phasmophobia Evidence Tool (P.E.T.)</em> is an unofficial companion tool Android application for the game Phasmophobia. P.E.T. enhances the user experience by supplementing in-game mechanics with a more involved investigation system. It gives extra features to players, enabling them to play the game with more efficiency and enhanced immersion. In the past, P.E.T. had solved a number of issues that Phasmophobia had; And while those issues have arguably been reworked in the game, <em>P.E.T.</em> still expands these features far past what the game supplies its users. It is available for free on the Google Play Store.</p>
+<img width="100%" height="100%" src="https://raw.githubusercontent.com/Andrew-R-Stephens/Andrew-R-Stephens/master/assets/pet-repo-profile_thin.png"/>
 
 <br>
 
@@ -208,6 +209,7 @@
 
 <a><h3>`Aleutian Islands University`</h3></a>
 <p><a href="https://aiu.tritium-studios.com/"><b><em>Aleutian Islands University</em></b></a> is a full stack website developed by a small team to mimic the realistic structure of a true unieversity website. More information about the team structure, the tech stack, and other useful facts can be located in the repository.</p>
+<img width="100%" height="100%" src="https://github.com/Andrew-R-Stephens/website-Aleutian_Islands_University/blob/main/src/res/unilogo-simple.png?raw=true"/>
 
 <br>
 
@@ -248,6 +250,7 @@
 
 <a><h3>`Into the Woods`</h3></a>
 <p><a href="https://github.com/Andrew-R-Stephens/game-Into_the_Woods#how-to-run"><b><em>Into the Woods</em></b></a> is a 2D platformer game written in Java without the assistance of any game library, graphic library, or asset library.</p>
+<img width="100%" src="https://raw.githubusercontent.com/Andrew-R-Stephens/game-Into_the_Woods/main/SourceCode/Project/src/main/resources/images/logo.png"/>
 
 <br>
 
