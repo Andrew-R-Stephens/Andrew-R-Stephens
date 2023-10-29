@@ -247,6 +247,8 @@
 </div>
 
 <br>
+<h1></h1>
+<br>
 
 <a><h3>`Into the Woods`</h3></a>
 <p><a href="https://github.com/Andrew-R-Stephens/game-Into_the_Woods#how-to-run"><b><em>Into the Woods</em></b></a> is a 2D platformer game written in Java without the assistance of any game library, graphic library, or asset library.</p>
