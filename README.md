@@ -1,7 +1,7 @@
 <div style={'display:float' align='center'}>
   <br>
   
-  <img src="https://raw.githubusercontent.com/Andrew-R-Stephens/Andrew-R-Stephens/master/assets/TritiumStudios_logo_ol_negative.png"/>
+  <img height=96px src="https://raw.githubusercontent.com/Andrew-R-Stephens/Andrew-R-Stephens/master/assets/TritiumStudios_logo_ol_negative.png"/>
 
   <h1>Welcome!</h1>
   
