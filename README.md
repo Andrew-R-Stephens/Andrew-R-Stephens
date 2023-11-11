@@ -373,4 +373,4 @@
 <br>
 
 ### Tritium Studios
-<p><a href="https://play.google.com/store/apps/dev?id=5154958473367814985"><b><em>Tritium Studios</em></b></a> is an independent mobile application development business owned and operated by Andrew Stephens.</p>
+<p><a href='https://play.google.com/store/apps/dev?id=5154958473367814985'><b><em>Tritium Studios</em></b></a> is an independent mobile application development business owned and operated by Andrew Stephens.</p>
