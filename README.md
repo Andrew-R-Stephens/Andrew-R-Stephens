@@ -41,20 +41,22 @@
 <div align='center'><h1>Skills</h1></div>
 
 <h3>Languages</h3>
-  <h5>&emsp;Frontend</h5>
+  <h5>&emsp;Fullstack</h5>
   <div style="display:float">
-    <label>&emsp;</label><img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&style=bold"/>
+    <label>&emsp;</label>
+      <img src="https://img.shields.io/badge/Java-JDK%2017-F80000?logo=oracle&logoColor=white&style=bold"/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=bold"/>
+      <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&style=bold"/>
       <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=bold"/>
   </div>
   <h5>&emsp;Backend</h5>
   <div style="display:float">
-    <label>&emsp;</label><img src="https://img.shields.io/badge/Java-JDK%2017-F80000?logo=oracle&logoColor=white&style=bold"/>
+    <label>&emsp;</label>
       <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=bold"/>
       <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=bold"/>
       <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=bold"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=bold"/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=bold"/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=bold"/>
       <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=bold"/>
   </div>
   <h5>&emsp;Ralational Database</h5>
@@ -76,11 +78,13 @@
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=bold"/>
     <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/Android%20Native-3DDC84?logo=android&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=bold"/>
 </div>
 
 <h3>Environments</h3>
 <div style="display:float">
+    <img src="https://img.shields.io/badge/Android-34A853?logo=android&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=black&style=bold"/>
     <img src="https://img.shields.io/badge/Java-JRE-F80000?logo=oracle&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/Python-Venv-3776AB?logo=python&logoColor=white&style=bold"/>
@@ -98,25 +102,31 @@
     <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white&style=bold"/>
 </div>
 
-<h3>AWS Services</h3>
-<div style="display:float">
-    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon%20aws&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/AWS-SES-232F3E?logo=amazon%20aws&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/AWS-Route%2053-232F3E?logo=amazon%20aws&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/AWS-IAM-232F3E?logo=amazon%20aws&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/AWS-Certificate%20Manager-232F3E?logo=amazon%20aws&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazon%20ec2&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/Amazon%20EC2-Elastic%20IP-FF9900?logo=amazon%20ec2&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/Amazon%20EC2-Load%20Balancer-FF9900?logo=amazon%20ec2&logoColor=white&style=bold"/>
-</div>
-
-<h3>Google Services</h3>
-<div style="display:float">
-    <img src="https://img.shields.io/badge/-Google%20Play-E37400?logo=googleplay&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/-Google%20Analytics-E37400?logo=googleanalytics&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/-Google%20Firebase-FFCA28?logo=googlefirebase&logoColor=white&style=bold"/>
-    <img src="https://img.shields.io/badge/-Google%20Admob-EA4335?logo=googleadmob&logoColor=white&style=bold"/>
-</div>
+<h3>Cloud Services</h3>
+  <h5>&emsp;AWS</h5>
+  <div style="display:float">
+    <label>&emsp;</label>
+      <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazon%20ec2&logoColor=white&style=bold"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon%20aws&logoColor=white&style=bold"/>
+      <img src="https://img.shields.io/badge/AWS-SES-232F3E?logo=amazon%20aws&logoColor=white&style=bold"/>
+      <img src="https://img.shields.io/badge/AWS-Route%2053-232F3E?logo=amazon%20aws&logoColor=white&style=bold"/>
+      <img src="https://img.shields.io/badge/AWS-IAM-232F3E?logo=amazon%20aws&logoColor=white&style=bold"/>
+      <img src="https://img.shields.io/badge/AWS-Certificate%20Manager-232F3E?logo=amazon%20aws&logoColor=white&style=bold"/>
+      <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazon%20ec2&logoColor=white&style=bold"/>
+      <img src="https://img.shields.io/badge/Amazon%20EC2-Elastic%20IP-FF9900?logo=amazon%20ec2&logoColor=white&style=bold"/>
+      <img src="https://img.shields.io/badge/Amazon%20EC2-Load%20Balancer-FF9900?logo=amazon%20ec2&logoColor=white&style=bold"/>
+  </div>
+  
+  <h5>&emsp;Google</h5>
+  <div style="display:float">
+    <label>&emsp;</label>
+      <img src="https://img.shields.io/badge/-Google%20Play-E37400?logo=googleplay&logoColor=white&style=bold"/>
+      <img src="https://img.shields.io/badge/-Google%20Analytics-E37400?logo=googleanalytics&logoColor=white&style=bold"/>
+      <img src="https://img.shields.io/badge/-Google%20Firebase-FFCA28?logo=firebase&logoColor=white&style=bold"/>
+      <img src="https://img.shields.io/badge/-Firebase%20Firestore-FFCA28?logo=firebase&logoColor=white&style=bold"/>
+      <img src="https://img.shields.io/badge/-Firebase%20Auth-FFCA28?logo=firebase&logoColor=white&style=bold"/>
+      <img src="https://img.shields.io/badge/-Google%20Admob-EA4335?logo=googleadmob&logoColor=white&style=bold"/>
+  </div>
 
 <h3>IDE's / Platforms</h3>
 <div style="display:float">
