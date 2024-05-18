@@ -286,7 +286,7 @@
 <div align='center' style="display:float">
   <a href='https://github.com/Andrew-R-Stephens/game-Into_the_Woods'><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label> Repository</label></a>
   &emsp;
-  <a href='https://aiu.tritium-studios.com/'><img width="25" src="https://github.com/Andrew-R-Stephens/Andrew-R-Stephens/blob/master/assets/play.png"/><label> Download Demo</label></a>
+  <a href='https://github.com/Andrew-R-Stephens/game-Into_the_Woods/releases/tag/Into-The-Woods'><img width="25" src="https://github.com/Andrew-R-Stephens/Andrew-R-Stephens/blob/master/assets/play.png"/><label> Download Demo</label></a>
 </div>
 
 <hr/>
