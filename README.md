@@ -171,7 +171,7 @@
 
 <div align='left'><h2>Publications</h2></div>
 
-> If it's published on an official website like the Google Play Store, it will be in this section.
+> If it's published on the Google Play Store, the Apple App Store, or a custom domain, it will be in this section.
 
 <br>
 
@@ -195,7 +195,7 @@
 <br>
 
 <div align='center' style="display:float">
-  <a href='https://github.com/Andrew-R-Stephens/PET-Source'><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label> Repository</label></a>
+  <a href='https://github.com/Andrew-R-Stephens/PET-Source'><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label>Repository</label></a>
 </div>
 
 <br>
@@ -254,6 +254,8 @@
 
 <div align='center'>
   <a href='https://github.com/Andrew-R-Stephens/website-Aleutian_Islands_University'><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label> Repository</label></a>
+  &emsp;
+  <a href='https://aiu.tritium-studios.com/'><img width="25" src="https://github.com/Andrew-R-Stephens/Andrew-R-Stephens/blob/master/assets/play.png"/><label> Website Demo</label></a>
 </div>
 
 <br>
@@ -284,7 +286,7 @@
 <div align='center' style="display:float">
   <a href='https://github.com/Andrew-R-Stephens/game-Into_the_Woods'><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label> Repository</label></a>
   &emsp;
-  <a href='https://aiu.tritium-studios.com/'><img width="25" src="https://github.com/Andrew-R-Stephens/Andrew-R-Stephens/blob/master/assets/play.png"/><label> Live Demo</label></a>
+  <a href='https://aiu.tritium-studios.com/'><img width="25" src="https://github.com/Andrew-R-Stephens/Andrew-R-Stephens/blob/master/assets/play.png"/><label> Download Demo</label></a>
 </div>
 
 <hr/>
