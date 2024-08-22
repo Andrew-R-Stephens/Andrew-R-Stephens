@@ -28,6 +28,7 @@
 - [Portfolio](#welcome)
 - [About](#about-andrew-stephens)
 - [Skills](#skills)
+- [Certifications](#certifications)
 - [Projects](#projects)
   - [Publications](#publications)
   - [Official Projects](#official-projects)
