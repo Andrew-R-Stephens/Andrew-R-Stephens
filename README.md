@@ -75,10 +75,10 @@
 
 <h3>Frameworks / Libraries</h3>
 <div style="display:float">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=bold"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/Android%20Native-3DDC84?logo=android&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=bold"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=bold"/>
 </div>
 
@@ -99,6 +99,7 @@
 <h3>Mobile Applications</h3>
 <div style="display:float">
     <img src="https://img.shields.io/badge/Android%20Native-3DDC84?logo=android&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white&style=bold"/>
 </div>
 
@@ -163,6 +164,23 @@
 
 <br>
 
+<hr/>
+
+<br>
+
+<div align='center'><h1>Certifications</h1></div>
+<div>
+  <blockquote>Meta Certs</blockquote>
+  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/7UEL1DSIECOH"><label>Introduction to Android Mobile Application Development</label></a></div>
+  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/DDL8MFR212HK"><label>Introduction to iOS Mobile Application Development</label></a></div>
+  <br>
+  <blockquote>Google Certs</blockquote>
+  <div><label>&emsp;Foundations of User Experience (UX) Design <em>(In progress)</em></label></div>
+  <div><label>&emsp;Build Dynamic User Interfaces (UI) for Websites <em>(In progress)</em></label></div>
+  <br>
+  <blockquote>Amazon Certs</blockquote>
+  <div><label>&emsp;AWS Cloud Technical Essentials <em>(In progress)</em></label></div>
+</div>
 <hr/>
 
 <br>
