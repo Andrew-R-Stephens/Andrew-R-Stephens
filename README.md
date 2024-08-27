@@ -176,6 +176,14 @@
   <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/DDL8MFR212HK"><label>Introduction to iOS Mobile Application Development</label></a></div>
   <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/ZQDAQ47BM3I4"><label>Programming Fundamentals in Kotlin</label></a></div>
   <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/E47NEIL8TVWO"><label>Version Control</label></a></div>
+  <div><label>&emsp;React Basics <em>(In progress)</em></label></div>
+  <div><label>&emsp;Android App Capstone <em>(In progress)</em></label></div>
+  <div><label>&emsp;Principles of UX/UI Design <em>(In progress)</em></label></div>
+  <div><label>&emsp;Mobile Development and Javascript <em>(In progress)</em></label></div>
+  <div><label>&emsp;React Native <em>(In progress)</em></label></div>
+  <div><label>&emsp;Create the User Interface in Android Studio <em>(In progress)</em></label></div>
+  <div><label>&emsp;Working with Data in Android <em>(In progress)</em></label></div>
+  <div><label>&emsp;Advanced Programming in Kotlin <em>(In progress)</em></label></div>
   <br>
   <blockquote>Google Certs</blockquote>
   <div><label>&emsp;Foundations of User Experience (UX) Design <em>(In progress)</em></label></div>
