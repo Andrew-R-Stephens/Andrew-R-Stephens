@@ -182,7 +182,7 @@
   <div><label>&emsp;Build Dynamic User Interfaces (UI) for Websites <em>(In progress)</em></label></div>
   <br>
   <blockquote>Amazon Certs</blockquote>
-  <div><label>&emsp;AWS Cloud Technical Essentials <em>(In progress)</em></label></div>
+  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/WSAU91FDBMR5"><label>AWS Cloud Technical Essentials</label></a></div>
 </div>
 <hr/>
 
