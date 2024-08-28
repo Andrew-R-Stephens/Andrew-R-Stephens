@@ -159,8 +159,8 @@
 <div style="display:float">
     <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/ChartsJS-FF6384?logo=chart.js&logoColor=white&style=bold"/>
-    <a href = "https://mvnrepository.com/artifact/javazoom/jlayer/1.0.1"><img src="https://img.shields.io/badge/Javazoom-JLayer-D3002D?logo=o'reilly&logoColor=white&style=bold"/></a>
-    <a href = "https://mvnrepository.com/artifact/com.google.code.gson/gson"><img src="https://img.shields.io/badge/Google-Gson-4285F4?logo=google&logoColor=white&style=bold"/></a>
+    <a href = "https://mvnrepository.com/artifact/javazoom/jlayer/1.0.1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Javazoom-JLayer-D3002D?logo=o'reilly&logoColor=white&style=bold"/></a>
+    <a href = "https://mvnrepository.com/artifact/com.google.code.gson/gson" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google-Gson-4285F4?logo=google&logoColor=white&style=bold"/></a>
 </div>
 
 <br>
@@ -177,11 +177,11 @@
   <br>
 <div>
   <blockquote>Meta Course Certs</blockquote>
-  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/7UEL1DSIECOH"><label>Introduction to Android Mobile Application Development</label></a></div>
-  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/DDL8MFR212HK"><label>Introduction to iOS Mobile Application Development</label></a></div>
-  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/ZQDAQ47BM3I4"><label>Programming Fundamentals in Kotlin</label></a></div>
-  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/ZQDAQ47BM3I4"><label>Advanced Programming in Kotlin</label></a></div>
-  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/CGMLMTII18W6"><label>Version Control</label></a></div>
+  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/7UEL1DSIECOH" target="_blank" rel="noopener noreferrer"><label>Introduction to Android Mobile Application Development</label></a></div>
+  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/DDL8MFR212HK" target="_blank" rel="noopener noreferrer"><label>Introduction to iOS Mobile Application Development</label></a></div>
+  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/ZQDAQ47BM3I4" target="_blank" rel="noopener noreferrer"><label>Programming Fundamentals in Kotlin</label></a></div>
+  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/ZQDAQ47BM3I4" target="_blank" rel="noopener noreferrer"><label>Advanced Programming in Kotlin</label></a></div>
+  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/CGMLMTII18W6" target="_blank" rel="noopener noreferrer"><label>Version Control</label></a></div>
   <div><label>&emsp;React Basics <em>(In progress)</em></label></div>
   <div><label>&emsp;Principles of UX/UI Design <em>(In progress)</em></label></div>
   <div><label>&emsp;Mobile Development and Javascript <em>(In progress)</em></label></div>
@@ -195,11 +195,11 @@
   <div><label>&emsp;iOS App Capstone <em>(In progress)</em></label></div>
   <br>
   <blockquote>Google Course Certs</blockquote>
-  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/JQC8E5DHSIJF"><label>Build Dynamic User Interfaces (UI) for Websites</label></a></div>
+  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/JQC8E5DHSIJF" target="_blank" rel="noopener noreferrer"><label>Build Dynamic User Interfaces (UI) for Websites</label></a></div>
   <div><label>&emsp;Foundations of User Experience (UX) Design <em>(In progress)</em></label></div>
   <br>
   <blockquote>Amazon Course Certs</blockquote>
-  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/WSAU91FDBMR5"><label>AWS Cloud Technical Essentials</label></a></div>
+  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/WSAU91FDBMR5" target="_blank" rel="noopener noreferrer"><label>AWS Cloud Technical Essentials</label></a></div>
 </div>
 <hr/>
 
@@ -233,14 +233,14 @@
 <br>
 
 <div align='center' style="display:float">
-  <a href='https://github.com/Andrew-R-Stephens/PET-Source'><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label>Repository</label></a>
+  <a href='https://github.com/Andrew-R-Stephens/PET-Source' target="_blank" rel="noopener noreferrer"><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label>Repository</label></a>
 </div>
 
 <br>
 
 <div align='center' style="display:float">
   <b>Be sure to visit:</b><br>
-  <a href='https://play.google.com/store/apps/details?id=com.TritiumGaming.phasmophobiaevidencepicker&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="150" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+  <a href='https://play.google.com/store/apps/details?id=com.TritiumGaming.phasmophobiaevidencepicker&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank" rel="noopener noreferrer"><img width="150" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 </div>
 
 <br>
@@ -256,7 +256,7 @@
 <br>
 
 <a><h3>`Aleutian Islands University`</h3></a>
-<p><a href="https://aiu.tritium-studios.com/"><b><em>Aleutian Islands University</em></b></a> is a full stack website developed by a small team to mimic the realistic structure of a true unieversity website. More information about the team structure, the tech stack, and other useful facts can be located in the repository.</p>
+<p><a href="https://aiu.tritium-studios.com/" target="_blank" rel="noopener noreferrer"><b><em>Aleutian Islands University</em></b></a> is a full stack website developed by a small team to mimic the realistic structure of a true unieversity website. More information about the team structure, the tech stack, and other useful facts can be located in the repository.</p>
 <img width="100%" height="100%" src="https://github.com/Andrew-R-Stephens/website-Aleutian_Islands_University/blob/main/src/res/unilogo-simple.png?raw=true"/>
 
 <br>
@@ -291,9 +291,9 @@
 <br>
 
 <div align='center'>
-  <a href='https://github.com/Andrew-R-Stephens/website-Aleutian_Islands_University'><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label> Repository</label></a>
+  <a href='https://github.com/Andrew-R-Stephens/website-Aleutian_Islands_University' target="_blank" rel="noopener noreferrer"><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label> Repository</label></a>
   &emsp;
-  <a href='https://aiu.tritium-studios.com/'><img width="25" src="https://github.com/Andrew-R-Stephens/Andrew-R-Stephens/blob/master/assets/play.png"/><label> Website Demo</label></a>
+  <a href='https://aiu.tritium-studios.com/' target="_blank" rel="noopener noreferrer"><img width="25" src="https://github.com/Andrew-R-Stephens/Andrew-R-Stephens/blob/master/assets/play.png"/><label> Website Demo</label></a>
 </div>
 
 <br>
@@ -301,7 +301,7 @@
 <br>
 
 <a><h3>`Into the Woods`</h3></a>
-<p><a href="https://github.com/Andrew-R-Stephens/game-Into_the_Woods#how-to-run"><b><em>Into the Woods</em></b></a> is a 2D platformer game written in Java without the assistance of any game library, graphic library, or asset library.</p>
+<p><a href="https://github.com/Andrew-R-Stephens/game-Into_the_Woods#how-to-run" target="_blank" rel="noopener noreferrer"><b><em>Into the Woods</em></b></a> is a 2D platformer game written in Java without the assistance of any game library, graphic library, or asset library.</p>
 <img width="100%" src="https://raw.githubusercontent.com/Andrew-R-Stephens/game-Into_the_Woods/main/SourceCode/Project/src/main/resources/images/logo.png"/>
 
 <br>
@@ -311,8 +311,8 @@
     <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/XML-005A9C?logo=w3c&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=bold"/>
-    <a href = "https://mvnrepository.com/artifact/javazoom/jlayer/1.0.1"><img src="https://img.shields.io/badge/Javazoom-JLayer-D3002D?logo=o'reilly&logoColor=white&style=bold"/></a>
-    <a href = "https://mvnrepository.com/artifact/com.google.code.gson/gson"><img src="https://img.shields.io/badge/Google-Gson-4285F4?logo=google&logoColor=white&style=bold"/></a>
+    <a href = "https://mvnrepository.com/artifact/javazoom/jlayer/1.0.1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Javazoom-JLayer-D3002D?logo=o'reilly&logoColor=white&style=bold"/></a>
+    <a href = "https://mvnrepository.com/artifact/com.google.code.gson/gson" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google-Gson-4285F4?logo=google&logoColor=white&style=bold"/></a>
     <img src="https://img.shields.io/badge/-IntelliJ%20Ultimate-000000?logo=intellij%20idea&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white&style=bold"/>
     <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=bold"/>
@@ -322,9 +322,9 @@
 <br>
 
 <div align='center' style="display:float">
-  <a href='https://github.com/Andrew-R-Stephens/game-Into_the_Woods'><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label> Repository</label></a>
+  <a href='https://github.com/Andrew-R-Stephens/game-Into_the_Woods' target="_blank" rel="noopener noreferrer"><img width="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"/><label> Repository</label></a>
   &emsp;
-  <a href='https://github.com/Andrew-R-Stephens/game-Into_the_Woods/releases/tag/Into-The-Woods'><img width="25" src="https://github.com/Andrew-R-Stephens/Andrew-R-Stephens/blob/master/assets/play.png"/><label> Download Demo</label></a>
+  <a href='https://github.com/Andrew-R-Stephens/game-Into_the_Woods/releases/tag/Into-The-Woods' target="_blank" rel="noopener noreferrer"><img width="25" src="https://github.com/Andrew-R-Stephens/Andrew-R-Stephens/blob/master/assets/play.png"/><label> Download Demo</label></a>
 </div>
 
 <hr/>
@@ -423,4 +423,4 @@
 <br>
 
 ### Tritium Studios
-<p><a href='https://play.google.com/store/apps/dev?id=5154958473367814985'><b><em>Tritium Studios</em></b></a> is an independent mobile application development business owned and operated by Andrew Stephens.</p>
+<p><a href='https://play.google.com/store/apps/dev?id=5154958473367814985' target="_blank" rel="noopener noreferrer"><b><em>Tritium Studios</em></b></a> is an independent mobile application development business owned and operated by Andrew Stephens.</p>
