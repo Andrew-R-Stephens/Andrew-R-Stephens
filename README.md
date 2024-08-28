@@ -170,8 +170,12 @@
 <br>
 
 <div align='center'><h1>Certifications</h1></div>
+  <blockquote>Professional Specialization Certs</blockquote>
+  <div><label>&emsp;Meta Android Developer Professional Certificate <em>(In progress)</em></label></div>
+  <div><label>&emsp;Meta iOS Developer Professional Certificate <em>(In progress)</em></label></div>
+  <br>
 <div>
-  <blockquote>Meta Certs</blockquote>
+  <blockquote>Meta Course Certs</blockquote>
   <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/7UEL1DSIECOH"><label>Introduction to Android Mobile Application Development</label></a></div>
   <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/DDL8MFR212HK"><label>Introduction to iOS Mobile Application Development</label></a></div>
   <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/ZQDAQ47BM3I4"><label>Programming Fundamentals in Kotlin</label></a></div>
@@ -185,11 +189,11 @@
   <div><label>&emsp;Working with Data in Android <em>(In progress)</em></label></div>
   <div><label>&emsp;Android App Capstone <em>(In progress)</em></label></div>
   <br>
-  <blockquote>Google Certs</blockquote>
+  <blockquote>Google Course Certs</blockquote>
+  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/JQC8E5DHSIJF"><label>Build Dynamic User Interfaces (UI) for Websites</label></a></div>
   <div><label>&emsp;Foundations of User Experience (UX) Design <em>(In progress)</em></label></div>
-  <div><label>&emsp;Build Dynamic User Interfaces (UI) for Websites <em>(In progress)</em></label></div>
   <br>
-  <blockquote>Amazon Certs</blockquote>
+  <blockquote>Amazon Course Certs</blockquote>
   <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/WSAU91FDBMR5"><label>AWS Cloud Technical Essentials</label></a></div>
 </div>
 <hr/>
