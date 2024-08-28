@@ -173,6 +173,7 @@
   <blockquote>Professional Specialization Certs</blockquote>
   <div><label>&emsp;Meta Android Developer Professional Certificate <em>(In progress)</em></label></div>
   <div><label>&emsp;Meta iOS Developer Professional Certificate <em>(In progress)</em></label></div>
+  <div><label>&emsp;Meta Front-End Developer Professional Certificate <em>(In progress)</em></label></div>
   <br>
 <div>
   <blockquote>Meta Course Certs</blockquote>
@@ -185,9 +186,13 @@
   <div><label>&emsp;Principles of UX/UI Design <em>(In progress)</em></label></div>
   <div><label>&emsp;Mobile Development and Javascript <em>(In progress)</em></label></div>
   <div><label>&emsp;React Native <em>(In progress)</em></label></div>
-  <div><label>&emsp;Create the User Interface in Android Studio <em>(In progress)</em></label></div>
+  <div><label>&emsp;Advanced Programming in Swift <em>(In progress)</em></label></div>
   <div><label>&emsp;Working with Data in Android <em>(In progress)</em></label></div>
+  <div><label>&emsp;Working with Data in iOS <em>(In progress)</em></label></div>
+  <div><label>&emsp;Create the User Interface in Android Studio <em>(In progress)</em></label></div>
+  <div><label>&emsp;Create the User Interface with SwiftUI <em>(In progress)</em></label></div>
   <div><label>&emsp;Android App Capstone <em>(In progress)</em></label></div>
+  <div><label>&emsp;iOS App Capstone <em>(In progress)</em></label></div>
   <br>
   <blockquote>Google Course Certs</blockquote>
   <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/JQC8E5DHSIJF"><label>Build Dynamic User Interfaces (UI) for Websites</label></a></div>
