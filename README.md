@@ -179,7 +179,8 @@
       <div><label>&emsp;Working with Data in Android <em>(In progress)</em></label></div>
       <div><label>&emsp;Android App Capstone <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/WZD80RIUNMNH"><label>Create the User Interface in Android Studio</label></a>
-      <div><label>&emsp;Principles of UX/UI Design <em>(In progress)</em></label></div>
+      <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/93T1KUVDJRMX"><label>Principles of UX/UI Design</label></a>
+      <div><label>&emsp; <em>(In progress)</em></label></div>
       <div><label>&emsp;Mobile Development and Javascript <em>(In progress)</em></label></div>
       <div><label>&emsp;React Native <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/E47NEIL8TVWO"><label>Version Control</label></a></div>
@@ -196,7 +197,7 @@
       <div><label>&emsp;iOS App Capstone <em>(In progress)</em></label></div>  
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/DDL8MFR212HK" target="_blank" rel="noopener noreferrer"><label>Introduction to iOS Mobile Application Development</label></a></div>
       <div><label>&emsp;Advanced Programming in Swift <em>(In progress)</em></label></div>
-      <div><label>&emsp;Principles of UX/UI Design <em>(In progress)</em></label></div>
+      <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/93T1KUVDJRMX"><label>Principles of UX/UI Design</label></a>
       <div><label>&emsp;Mobile Development and Javascript <em>(In progress)</em></label></div>
       <div><label>&emsp;React Native <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/E47NEIL8TVWO"><label>Version Control</label></a></div>
@@ -210,7 +211,7 @@
       <summary><label>&emsp;Meta Front-End Developer Professional Certificate <em>(In progress)</em></label></summary>
       <div><label>&emsp;React Basics <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/RQMJFL165ES5"><label>Coding Interview Preparation</label></a>
-      <div><label>&emsp;Principles of UX/UI Design <em>(In progress)</em></label></div>
+      <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/93T1KUVDJRMX"><label>Principles of UX/UI Design</label></a>
       <div><label>&emsp;Front-End Developer Capstone <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/E47NEIL8TVWO"><label>Version Control</label></a></div>
       <div><label>&emsp;Advanced React <em>(In progress)</em></label></div>
