@@ -13,7 +13,7 @@
 
 <br>
 <div align='left'><h2>About Andrew Stephens</h2></div>
-<p>Hello, my name is Andrew! I'm a full stack engineer and mobile app developer from Long Island, New York. I'm highly motivated and curious about computer science and software development as a whole, which has been demonstrated through my extensive practice with a multitude of different technologies over the last decade.</p>
+<p>Hello, my name is Andrew! I'm a full stack engineer and mobile app developer from Long Island, New York. I'm highly motivated and curious about computer science and software development as a whole, which has been demonstrated through my extensive practice with a multitude of different technologies over the last decade as well as though my <a href="#certifications"> numerous certifications</a>.</p>
   
 <p>I have a B.S. in Computer and Information Science from SUNY Old Westbury with Dean's List honors.
 
