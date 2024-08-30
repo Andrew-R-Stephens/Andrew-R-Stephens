@@ -221,7 +221,7 @@
   <br>
   <blockquote>Google Course Certs</blockquote>
   <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/JQC8E5DHSIJF" target="_blank" rel="noopener noreferrer"><label>Build Dynamic User Interfaces (UI) for Websites</label></a></div>
-  <div><label>&emsp;Foundations of User Experience (UX) Design <em>(In progress)</em></label></div>
+  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/CIEFAL8C1KR9" target="_blank" rel="noopener noreferrer"><label>Foundations of User Experience (UX) Design</label></a></div>
   <br>
   <blockquote>Amazon Course Certs</blockquote>
   <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/WSAU91FDBMR5" target="_blank" rel="noopener noreferrer"><label>AWS Cloud Technical Essentials</label></a></div>
