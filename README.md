@@ -207,10 +207,21 @@
   <div>
     <details open='true'>
       <summary><label>&emsp;Meta Front-End Developer Professional Certificate <em>(In progress)</em></label></summary>
+      <div><label>&emsp;React Basics <em>(In progress)</em></label></div>
+      <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/RQMJFL165ES5"><label>Coding Interview Preparation</label></a>
+      <div><label>&emsp;Principles of UX/UI Design <em>(In progress)</em></label></div>
+      <div><label>&emsp;Front-End Developer Capstone <em>(In progress)</em></label></div>
+      <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/E47NEIL8TVWO"><label>Version Control</label></a></div>
+      <div><label>&emsp;Advanced React <em>(In progress)</em></label></div>
+      <div><label>&emsp;Programming with Javascript <em>(In progress)</em></label></div>
+      <div><label>&emsp;HTML and CSS in depth <em>(In progress)</em></label></div>
+      <div><label>&emsp;Introduction to Front-End Development <em>(In progress)</em></label></div>
     </details>
   </div>
   <br>
-<div>
+
+  
+  <!-- <div>
   <blockquote>Meta Course Certs</blockquote>
   <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/7UEL1DSIECOH" target="_blank" rel="noopener noreferrer"><label>Introduction to Android Mobile Application Development</label></a></div>
   <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/DDL8MFR212HK" target="_blank" rel="noopener noreferrer"><label>Introduction to iOS Mobile Application Development</label></a></div>
@@ -228,7 +239,7 @@
   <div><label>&emsp;Create the User Interface with SwiftUI <em>(In progress)</em></label></div>
   <div><label>&emsp;Android App Capstone <em>(In progress)</em></label></div>
   <div><label>&emsp;iOS App Capstone <em>(In progress)</em></label></div>
-  
+   -->
   <br>
   
   <blockquote>Google Course Certs</blockquote>
