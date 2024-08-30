@@ -180,7 +180,6 @@
       <div><label>&emsp;Android App Capstone <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/WZD80RIUNMNH"><label>Create the User Interface in Android Studio</label></a>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/93T1KUVDJRMX"><label>Principles of UX/UI Design</label></a>
-      <div><label>&emsp; <em>(In progress)</em></label></div>
       <div><label>&emsp;Mobile Development and Javascript <em>(In progress)</em></label></div>
       <div><label>&emsp;React Native <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/E47NEIL8TVWO"><label>Version Control</label></a></div>
