@@ -182,6 +182,7 @@
   <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/ZQDAQ47BM3I4" target="_blank" rel="noopener noreferrer"><label>Programming Fundamentals in Kotlin</label></a></div>
   <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/ZQDAQ47BM3I4" target="_blank" rel="noopener noreferrer"><label>Advanced Programming in Kotlin</label></a></div>
   <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/CGMLMTII18W6" target="_blank" rel="noopener noreferrer"><label>Version Control</label></a></div>
+  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/WZD80RIUNMNH" target="_blank" rel="noopener noreferrer"><label>Create the User Interface in Android Studio</label></a></div>
   <div><label>&emsp;React Basics <em>(In progress)</em></label></div>
   <div><label>&emsp;Principles of UX/UI Design <em>(In progress)</em></label></div>
   <div><label>&emsp;Mobile Development and Javascript <em>(In progress)</em></label></div>
@@ -189,7 +190,6 @@
   <div><label>&emsp;Advanced Programming in Swift <em>(In progress)</em></label></div>
   <div><label>&emsp;Working with Data in Android <em>(In progress)</em></label></div>
   <div><label>&emsp;Working with Data in iOS <em>(In progress)</em></label></div>
-  <div><label>&emsp;Create the User Interface in Android Studio <em>(In progress)</em></label></div>
   <div><label>&emsp;Create the User Interface with SwiftUI <em>(In progress)</em></label></div>
   <div><label>&emsp;Android App Capstone <em>(In progress)</em></label></div>
   <div><label>&emsp;iOS App Capstone <em>(In progress)</em></label></div>
