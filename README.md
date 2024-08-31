@@ -181,7 +181,7 @@
       <div><label>&emsp;Android App Capstone <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/WZD80RIUNMNH"><label>Create the User Interface in Android Studio</label></a>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/93T1KUVDJRMX"><label>Principles of UX/UI Design</label></a>
-      <div><label>&emsp;Mobile Development and Javascript <em>(In progress)</em></label></div>
+      <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/P411G8UPGHML"><label>Mobile Development and Javascript</label></a></div>
       <div><label>&emsp;React Native <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/E47NEIL8TVWO"><label>Version Control</label></a></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/ZQDAQ47BM3I4"><label>Programming Fundamentals in Kotlin</label></a></div>
@@ -202,7 +202,7 @@
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/DDL8MFR212HK" target="_blank" rel="noopener noreferrer"><label>Introduction to iOS Mobile Application Development</label></a></div>
       <div><label>&emsp;Advanced Programming in Swift <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/93T1KUVDJRMX"><label>Principles of UX/UI Design</label></a>
-      <div><label>&emsp;Mobile Development and Javascript <em>(In progress)</em></label></div>
+      <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/P411G8UPGHML"><label>Mobile Development and Javascript</label></a></div>
       <div><label>&emsp;React Native <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/E47NEIL8TVWO"><label>Version Control</label></a></div>
       <div><label>&emsp;Working with Data in iOS <em>(In progress)</em></label></div>
