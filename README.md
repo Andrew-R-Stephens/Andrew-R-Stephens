@@ -170,7 +170,7 @@
 <br>
 
 <div align='center'><h1>Certifications</h1></div>
-  <blockquote>Professional Specialization Certs</blockquote>
+  <h5>Professional Specialization Certs</h5>
   <div>
     <details open='true'>
       <summary><label>&emsp;Meta Android Developer Professional Certificate <em>(In progress)</em></label></summary>
@@ -192,7 +192,7 @@
   <div>
     <details open='true'>
       <summary><label>&emsp;Meta iOS Developer Professional Certificate <em>(In progress)</em></label></summary>
-      <blockquote>Courses</blockquote>
+      <h5>Courses</h5>
       <div><label>&emsp;React Basics <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/RQMJFL165ES5"><label>Coding Interview Preparation</label></a>
       <div><label>&emsp;iOS App Capstone <em>(In progress)</em></label></div>  
@@ -210,7 +210,7 @@
   <div>
     <details open='true'>
       <summary><label>&emsp;Meta Front-End Developer Professional Certificate <em>(In progress)</em></label></summary>
-      <blockquote>Courses</blockquote>
+      <h5>Courses</h5>
       <div><label>&emsp;React Basics <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/RQMJFL165ES5"><label>Coding Interview Preparation</label></a>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/93T1KUVDJRMX"><label>Principles of UX/UI Design</label></a>
