@@ -174,6 +174,7 @@
   <div>
     <details open='true'>
       <summary><label>&emsp;Meta Android Developer Professional Certificate <em>(In progress)</em></label></summary>
+      <blockquote>Courses</blockquote>
       <div><label>&emsp;React Basics <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/RQMJFL165ES5"><label>Coding Interview Preparation</label></a>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/BLCUZNLD8JU8"><label>Working with Data in Android</label></a>
@@ -191,6 +192,7 @@
   <div>
     <details open='true'>
       <summary><label>&emsp;Meta iOS Developer Professional Certificate <em>(In progress)</em></label></summary>
+      <blockquote>Courses</blockquote>
       <div><label>&emsp;React Basics <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/RQMJFL165ES5"><label>Coding Interview Preparation</label></a>
       <div><label>&emsp;iOS App Capstone <em>(In progress)</em></label></div>  
@@ -208,6 +210,7 @@
   <div>
     <details open='true'>
       <summary><label>&emsp;Meta Front-End Developer Professional Certificate <em>(In progress)</em></label></summary>
+      <blockquote>Courses</blockquote>
       <div><label>&emsp;React Basics <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/RQMJFL165ES5"><label>Coding Interview Preparation</label></a>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/93T1KUVDJRMX"><label>Principles of UX/UI Design</label></a>
