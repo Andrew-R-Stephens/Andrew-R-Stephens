@@ -173,8 +173,8 @@
   <blockquote>Professional Specialization Certs</blockquote>
   <div>
     <details open='true'>
-      <summary><label>&h5;Meta Android Developer Professional Certificate <em>(In progress)</em></label></summary>
-      <h5>Courses</h5>
+      <summary><label>&emsp;Meta Android Developer Professional Certificate <em>(In progress)</em></label></summary>
+      <h5>&emsp;<code>Courses</code></h5>
       <div><label>&emsp;React Basics <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/RQMJFL165ES5"><label>Coding Interview Preparation</label></a>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/BLCUZNLD8JU8"><label>Working with Data in Android</label></a>
@@ -189,10 +189,13 @@
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/7UEL1DSIECOH"><label>Introduction to Android Mobile Application Development</label></a></div>
     </details>
   </div>
+  
+  <br>
+  
   <div>
     <details open='true'>
       <summary><label>&emsp;Meta iOS Developer Professional Certificate <em>(In progress)</em></label></summary>
-      <h5>Courses</h5>
+      <h5>&emsp;<code>Courses</code></h5>
       <div><label>&emsp;React Basics <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/RQMJFL165ES5"><label>Coding Interview Preparation</label></a>
       <div><label>&emsp;iOS App Capstone <em>(In progress)</em></label></div>  
@@ -207,10 +210,13 @@
       <div><label>&emsp;Create the User Interface with SwiftUI <em>(In progress)</em></label></div>
     </details>
   </div>
+
+  <br>
+        
   <div>
     <details open='true'>
       <summary><label>&emsp;Meta Front-End Developer Professional Certificate <em>(In progress)</em></label></summary>
-      <h5>Courses</h5>
+      <h5>&emsp;<code>Courses</code></h5>
       <div><label>&emsp;React Basics <em>(In progress)</em></label></div>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/RQMJFL165ES5"><label>Coding Interview Preparation</label></a>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/93T1KUVDJRMX"><label>Principles of UX/UI Design</label></a>
