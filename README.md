@@ -29,7 +29,7 @@
 - [About Me](#about-andrew-stephens)
 - [Skills](#skills)
 - [Certifications](#certifications)
-- [Projects](#projects)
+- [My Experience](#projects)
   - [Publications](#publications)
   - [Official Projects](#official-projects)
   - [Personal Projects](#personal-projects)
