@@ -172,13 +172,17 @@
 <div align='center'><h1>Certifications</h1></div>
   <blockquote>Professional Specialization Certs</blockquote>
   <div>
-    <details open='true'>
-      <summary><label>&emsp;Meta Android Developer Professional Certificate <em>(In progress)</em></label></summary>
+    <details>
+      <summary>
+        <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/PNMQ4G5IDPPP">
+          <label>Meta Android Developer Professional Certificate</label>
+        </a>
+      </summary>
       <h5>&emsp;<code>Courses</code></h5>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/706OONXC4NJ3"><label>React Basics</label></a>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/RQMJFL165ES5"><label>Coding Interview Preparation</label></a>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/BLCUZNLD8JU8"><label>Working with Data in Android</label></a>
-      <div><label>&emsp;Android App Capstone <em>(In progress)</em></label></div>
+      <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/0D5M3XC5OVOF"><label>Android App Capstone</label></a>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/WZD80RIUNMNH"><label>Create the User Interface in Android Studio</label></a>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/93T1KUVDJRMX"><label>Principles of UX/UI Design</label></a>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/P411G8UPGHML"><label>Mobile Development and Javascript</label></a></div>
@@ -193,7 +197,7 @@
   <br>
   
   <div>
-    <details open='true'>
+    <details>
       <summary><label>&emsp;Meta iOS Developer Professional Certificate <em>(In progress)</em></label></summary>
       <h5>&emsp;<code>Courses</code></h5>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/706OONXC4NJ3"><label>React Basics</label></a>
@@ -214,7 +218,7 @@
   <br>
         
   <div>
-    <details open='true'>
+    <details>
       <summary><label>&emsp;Meta Front-End Developer Professional Certificate <em>(In progress)</em></label></summary>
       <h5>&emsp;<code>Courses</code></h5>
       <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/706OONXC4NJ3"><label>React Basics</label></a>
@@ -230,26 +234,6 @@
   </div>
   <br>
 
-  
-  <!-- <div>
-  <blockquote>Meta Course Certs</blockquote>
-  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/7UEL1DSIECOH" target="_blank" rel="noopener noreferrer"><label>Introduction to Android Mobile Application Development</label></a></div>
-  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/DDL8MFR212HK" target="_blank" rel="noopener noreferrer"><label>Introduction to iOS Mobile Application Development</label></a></div>
-  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/ZQDAQ47BM3I4" target="_blank" rel="noopener noreferrer"><label>Programming Fundamentals in Kotlin</label></a></div>
-  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/CGMLMTII18W6" target="_blank" rel="noopener noreferrer"><label>Advanced Programming in Kotlin</label></a></div>
-  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/E47NEIL8TVWO"><label>Version Control</label></a></div>
-  <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/WZD80RIUNMNH" target="_blank" rel="noopener noreferrer"><label>Create the User Interface in Android Studio</label></a></div>
-  <div><label>&emsp;React Basics <em>(In progress)</em></label></div>
-  <div><label>&emsp;Principles of UX/UI Design <em>(In progress)</em></label></div>
-  <div><label>&emsp;Mobile Development and Javascript <em>(In progress)</em></label></div>
-  <div><label>&emsp;React Native <em>(In progress)</em></label></div>
-  <div><label>&emsp;Advanced Programming in Swift <em>(In progress)</em></label></div>
-  <div><label>&emsp;Working with Data in Android <em>(In progress)</em></label></div>
-  <div><label>&emsp;Working with Data in iOS <em>(In progress)</em></label></div>
-  <div><label>&emsp;Create the User Interface with SwiftUI <em>(In progress)</em></label></div>
-  <div><label>&emsp;Android App Capstone <em>(In progress)</em></label></div>
-  <div><label>&emsp;iOS App Capstone <em>(In progress)</em></label></div>
-   -->
   <br>
   
   <blockquote>Google Course Certs</blockquote>
