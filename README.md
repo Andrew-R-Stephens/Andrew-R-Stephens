@@ -29,7 +29,7 @@
 - [About Me](#about-andrew-stephens)
 - [Skills](#skills)
 - [Certifications](#certifications)
-- [My Experience](#projects)
+- [My Experience](#my-experience)
   - [Publications](#publications)
   - [Official Projects](#official-projects)
   - [Personal Projects](#personal-projects)
@@ -262,7 +262,7 @@
 
 <br>
 
-<div align='center'><h1>Projects</h1></div>
+<div align='center'><h1>My Experience</h1></div>
 
 <div align='left'><h2>Publications</h2></div>
 
