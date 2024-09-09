@@ -174,7 +174,7 @@
   <div>
     <details>
       <summary>
-        <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/PNMQ4G5IDPPP">
+        <div>&emsp;<a href = "https://www.coursera.org/account/accomplishments/specialization/PNMQ4G5IDPPP">
           <label>Meta Android Developer Professional Certificate</label>
         </a>
       </summary>
