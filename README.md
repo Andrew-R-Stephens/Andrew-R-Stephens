@@ -25,8 +25,8 @@
 
 <div align='center'><h1>Appendix</h1></div>
 
-- [Portfolio](https://portfolio.tritium-studios.com/)
-- [About](#about-andrew-stephens)
+- [My Portfolio](https://portfolio.tritium-studios.com/)
+- [About Me](#about-andrew-stephens)
 - [Skills](#skills)
 - [Certifications](#certifications)
 - [Projects](#projects)
