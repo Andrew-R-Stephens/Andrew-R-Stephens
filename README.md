@@ -216,7 +216,7 @@
         <div>&emsp;&emsp;&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/GYZ86I1TUODM"><label>React Native</label></a>
         <div>&emsp;&emsp;&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/E47NEIL8TVWO"><label>Version Control</label></a></div>
         <div><label>&emsp;&emsp;&emsp;Working with Data in iOS <em>(In progress)</em></label></div>
-        <div><label>&emsp;&emsp;&emsp;Programming Fundamentals in Swift <em>(In progress)</em></label></div>
+        <div>&emsp;&emsp;&emsp;<a href = "https://www.coursera.org/account/accomplishments/records/01NTXXA8K1MF"><label>Programming Fundamentals in Swift</label></a></div>
         <div><label>&emsp;&emsp;&emsp;Create the User Interface with SwiftUI <em>(In progress)</em></label></div>
       </div>
     </details>
