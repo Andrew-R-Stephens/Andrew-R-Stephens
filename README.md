@@ -277,14 +277,17 @@
 <br>
 
 <div align='center' style="display:float">
-  <img src="https://img.shields.io/badge/-Java-F80000?logo=oracle&logoColor=white&style=bold"/>
-  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=black&style=bold"/>
-  <img src="https://img.shields.io/badge/-Google%20Play-E37400?logo=googleplay&logoColor=white&style=bold"/>
-  <img src="https://img.shields.io/badge/-Google%20Analytics-E37400?logo=googleanalytics&logoColor=white&style=bold"/>
-  <img src="https://img.shields.io/badge/-Google%20Firebase-FFCA28?logo=googlefirebase&logoColor=white&style=bold"/>
-  <img src="https://img.shields.io/badge/-Google%20Admob-EA4335?logo=googleadmob&logoColor=white&style=bold"/>
-  <img src="https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=bold"/>
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=bold" alt=""/>
+  <img src="https://img.shields.io/badge/-Java-F80000?logo=oracle&logoColor=white&style=bold" alt=""/>
+  <img src="https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=bold" alt=""/>
   <img src="https://img.shields.io/badge/-XML-333333?logo=xml&logoColor=white&style=bold"/>
+  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=bold" alt=""/>
+  <img src="https://img.shields.io/badge/-Google%20Play-E37400?logo=googleplay&logoColor=white&style=bold" alt=""/>
+  <img src="https://img.shields.io/badge/-Google%20Analytics-E37400?logo=googleanalytics&logoColor=white&style=bold" alt=""/>
+  <img src="https://img.shields.io/badge/-Google%20Firebase-FFCA28?logo=firebase&logoColor=white&style=bold" alt=""/>
+  <img src="https://img.shields.io/badge/-Google%20Admob-EA4335?logo=googleadmob&logoColor=white&style=bold" alt=""/>
+  <img src="https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=bold" alt=""/>
+  <img src="https://img.shields.io/badge/-JSON-black?logo=json&logoColor=white&style=bold" alt=""/>
 </div>
 
 <br>
