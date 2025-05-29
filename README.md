@@ -45,7 +45,7 @@
   <h5>&emsp;Fullstack</h5>
   <div style="display:float">
     <label>&emsp;</label>
-      <img src="https://img.shields.io/badge/Java-JDK%2017-F80000?logo=oracle&logoColor=white&style=bold"/>
+      <img src="https://img.shields.io/badge/Java-F80000?logo=openjdk&logoColor=white&style=bold"/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=bold"/>
       <img src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&style=bold"/>
       <img src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=bold"/>
